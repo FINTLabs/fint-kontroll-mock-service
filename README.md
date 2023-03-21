@@ -1,10 +1,14 @@
 # fint-kontroll-mock-service
 
 ## usage
-**Build container:**
+**Build image:**
 
-docker build -t fint-mock .
+`$ docker build -t fint-mock .`
 
 **Run container:**
 
-docker run -p 3000:3000 fint-mock
+`$ docker run --name fint-data -d -p 3000:3000 fint-mock`
+
+**Start/Stop container**
+`$ docker start fint-data`
+`$ docker stop fint-data`
