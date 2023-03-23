@@ -7,14 +7,12 @@ spec:
   strategy:
     type: Recreate
   template:
+    metadata:
+      labels:
+        app: fint-kontroll-mock-service
     spec:
-      restartPolicy: Always
-      # volumes:
-      #   - name: credentials
-      #     secret:
-      #       secretName: fint-flyt-data-service-kafka-certificates
       containers:
-        - image: ghcr.io/fintlabs/fint-flyt-data-service:latest
+        - image: ghcr.io/fintlabs/fint-kontroll-mock-service:latest
           name: fint-kontroll-mock-service
           volumeMounts:
             - name: credentials
@@ -29,7 +27,5 @@ spec:
           ports:
             - containerPort: 3000
           envFrom:
-            # - secretRef:
-            #     name: fint-flyt-data-service-kafka
             - configMapRef:
                 name: fint-kontroll-mock-service
