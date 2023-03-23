@@ -1,0 +1,35 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: fint-kontroll-mock-service
+spec:
+  replicas: 1
+  strategy:
+    type: Recreate
+  template:
+    spec:
+      restartPolicy: Always
+      # volumes:
+      #   - name: credentials
+      #     secret:
+      #       secretName: fint-flyt-data-service-kafka-certificates
+      containers:
+        - image: ghcr.io/fintlabs/fint-flyt-data-service:latest
+          name: fint-kontroll-mock-service
+          volumeMounts:
+            - name: credentials
+              mountPath: /credentials
+          resources:
+            limits:
+              memory: "2048Mi"
+              cpu: "1"
+            requests:
+              memory: "512Mi"
+              cpu: "100m"
+          ports:
+            - containerPort: 3000
+          envFrom:
+            # - secretRef:
+            #     name: fint-flyt-data-service-kafka
+            - configMapRef:
+                name: fint-kontroll-mock-service
