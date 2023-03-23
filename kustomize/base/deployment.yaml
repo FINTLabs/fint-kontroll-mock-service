@@ -14,9 +14,6 @@ spec:
       containers:
         - image: ghcr.io/fintlabs/fint-kontroll-mock-service:latest
           name: fint-kontroll-mock-service
-          volumeMounts:
-            - name: credentials
-              mountPath: /credentials
           resources:
             limits:
               memory: "2048Mi"
