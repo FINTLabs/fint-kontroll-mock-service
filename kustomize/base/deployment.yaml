@@ -13,7 +13,7 @@ spec:
     spec:
       terminationGracePeriodSeconds: 60
       containers:
-        - image: ghcr.io/fintlabs/fint-kontroll-mock-service:latest
+        - image: ghcr.io/fintlabs/fint-kontroll-mock-service:shaf-6186438
           name: fint-kontroll-mock-service
           resources:
             limits:
@@ -27,3 +27,4 @@ spec:
           envFrom:
             - configMapRef:
                 name: fint-kontroll-mock-service
+
