@@ -24,7 +24,4 @@ spec:
               cpu: "100m"
           ports:
             - containerPort: 3000
-          envFrom:
-            - configMapRef:
-                name: fint-kontroll-mock-service
 
