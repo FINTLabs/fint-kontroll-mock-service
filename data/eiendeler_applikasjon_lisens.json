@@ -1,0 +1,107 @@
+{
+  "_embedded":
+  {  
+    "_entries":[
+      {
+        "systemid": {
+          "identifikatorverdi": "f887f35a0fab01f3e3e2c5c2"
+        },
+        "lisensnavn": "Creative Cloud All Apps for K-12 - Shared Device",
+        "lisensantall": 25,
+        "beskrivelse": "Creative Cloud All Apps for K-12 - Shared Device",
+        "_links": {
+          "applikasjon": [
+              {
+                "href": "https://beta.felleskomponent.no/eiendeler/applikasjon/applikasjon/systemid/1ea37c4ca39cfd02450e7757"
+              }
+          ],
+          "lisenstype":[
+              {
+                "href": "https://beta.felleskomponent.no/eiendeler/kodeverk/lisenstype/systemid/2"
+              }
+          ],
+          "tilgjengeligforbrukertype":[
+              {
+                "href": "https://beta.felleskomponent.no/eiendeler/kodeverk/brukertype/systemid/1"
+              },
+{
+                "href": "https://beta.felleskomponent.no/eiendeler/kodeverk/brukertype/systemid/3"
+              }
+          ],
+          "lisenseier": [
+              {
+                "href": "https://api.felleskomponent.no/administrasjon/organisasjon/organisasjonselement/organisasjonskode/V40.43.25"
+              }
+          ],
+          "lisenstilgang":[
+              {
+                "href": "https://beta.felleskomponent.no/eiendeler/applikasjon/lisenstilgang/systemid/12345"
+              }
+          ],
+          "self": [
+              {
+                "href": "https://beta.felleskomponent.no/eiendeler/applikasjon/lisens/systemid/f887f35a0fab01f3e3e2c5c2"
+              }
+          ]
+        }
+      },
+      {
+        "systemid": {
+          "identifikatorverdi": "ff75076c4ce53f5ca51b1cbb"
+        },
+        "lisensnavn": "Creative Cloud All Apps for K-12 - User License",
+        "lisensantall": 10000,
+        "beskrivelse": "Creative Cloud All Apps for K-12 - User License. Skolelisens Selve programvaren lastes ned og installeres på PC-er (Mac-er), men pålogging og lagring foregår mot Adobes sky-løsning.",
+        "_links": {
+          "applikasjon": [
+              {
+                "href": "https://beta.felleskomponent.no/eiendeler/applikasjon/applikasjon/systemid/1ea37c4ca39cfd02450e7757"
+              }
+          ],
+          "lisenstype":[
+              {
+                "href": "https://beta.felleskomponent.no/eiendeler/kodeverk/lisenstype/systemid/2"
+              }
+          ],
+          "tilgjengeligforbrukertype":[
+              {
+                "href": "https://beta.felleskomponent.no/eiendeler/kodeverk/brukertype/systemid/1"
+              },
+{
+                "href": "https://beta.felleskomponent.no/eiendeler/kodeverk/brukertype/systemid/3"
+              }
+          ],
+          "lisenseier": [
+              {
+                "href": "https://.felleskomponent.no/administrasjon/organisasjon/organisasjonselement/organisasjonskode/V30.30"
+              }
+          ],
+          "lisenstilgang":[
+              {
+                "href": "https://beta.felleskomponent.no/eiendeler/applikasjon/lisenstilgang/systemid/12346"
+              },
+              {
+                "href": "https://beta.felleskomponent.no/eiendeler/applikasjon/lisenstilgang/systemid/12347"
+              },
+              {
+                "href": "https://beta.felleskomponent.no/eiendeler/applikasjon/lisenstilgang/systemid/12348"
+              }
+          ],
+          "self": [
+              {
+                "href": "https://beta.felleskomponent.no/eiendeler/applikasjon/lisens/systemid/f887f35a0fab01f3e3e2c5c2"
+              }
+          ]
+        }
+      }      
+    ]
+  },
+	"_links": {
+		"self": [
+			{
+				"href": "https://beta.felleskomponent.no/eiendeler/applikasjon/lisens/"
+			}
+		]
+	},
+  "total_items":2
+}

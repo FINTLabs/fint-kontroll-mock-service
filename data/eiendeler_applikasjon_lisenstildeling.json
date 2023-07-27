@@ -1,0 +1,107 @@
+{
+  "_embedded":
+  {  
+    "_entries":[
+      {
+        "systemid": {
+          "identifikatorverdi": "12345"
+        },
+        "lisensantall": 25,
+        "_links": {
+          "lisenskonsument": [
+              {
+                "href": "https://beta.felleskomponent.no/administrasjon/organisasjon/organisasjonselement/organisasjonskode/V40.43.25"
+              }
+          ],
+          "lisens":[
+              {
+                "href": "https://beta.felleskomponent.no/eiendeler/applikasjon/lisens/systemid/f887f35a0fab01f3e3e2c5c2"
+              }
+          ],
+          "self": [
+              {
+                "href": "https://beta.felleskomponent.no/eiendeler/applikasjon/lisenstilgang/systemid/12345"
+              }
+          ]
+        }
+      },
+      {
+        "systemid": {
+          "identifikatorverdi": "12346"
+        },
+        "lisensantall": 200,
+        "_links": {
+          "lisenskonsument": [
+              {
+                "href": "https://beta.felleskomponent.no/administrasjon/organisasjon/organisasjonselement/organisasjonskode/V40.43.25"
+              }
+          ],
+          "lisens":[
+              {
+                "href": "https://beta.felleskomponent.no/eiendeler/applikasjon/lisens/systemid/ff75076c4ce53f5ca51b1cbb"
+              }
+          ],
+          "self": [
+              {
+                "href": "https://beta.felleskomponent.no/eiendeler/applikasjon/lisenstilgang/systemid/12346"
+              }
+          ]
+        }
+      },
+      { 
+        "systemid": {
+          "identifikatorverdi": "12347"
+        },
+        "lisensantall": 300,
+        "_links": {
+          "lisenskonsument": [
+              {
+                "href": "https://beta.felleskomponent.no/administrasjon/organisasjon/organisasjonselement/organisasjonskode/V40.44.13"
+              }
+          ],
+          "lisens":[
+              {
+                "href": "https://beta.felleskomponent.no/eiendeler/applikasjon/lisens/systemid/ff75076c4ce53f5ca51b1cbb"
+              }
+          ],
+          "self": [
+              {
+                "href": "https://beta.felleskomponent.no/eiendeler/applikasjon/lisenstilgang/systemid/12347"
+              }
+          ]
+        }
+      },
+      {
+        "systemid": {
+          "identifikatorverdi": "12348"
+        },
+        "lisensantall": 500,
+        "_links": {
+          "lisenskonsument": [
+              {
+                "href": "https://beta.felleskomponent.no/administrasjon/organisasjon/organisasjonselement/organisasjonskode/V40.41.13"
+              }
+          ],
+          "lisens":[
+              {
+                "href": "https://beta.felleskomponent.no/eiendeler/applikasjon/lisens/systemid/ff75076c4ce53f5ca51b1cbb"
+              }
+          ],
+          "self": [
+              {
+                "href": "https://beta.felleskomponent.no/eiendeler/applikasjon/lisenstilgang/systemid/12348"
+              }
+          ]
+        }
+      }  
+    ]    
+  },
+  "_links": {
+		"self": [
+			{
+				"href": "https://beta.felleskomponent.no/eiendeler/applikasjon/lisenstildeling/"
+			}
+		]
+	},
+  "total_items":4
+}

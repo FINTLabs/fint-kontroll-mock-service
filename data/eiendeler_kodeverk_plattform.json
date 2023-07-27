@@ -1,0 +1,70 @@
+{
+	"_embedded": {
+		"_entries": [
+			{
+				"kode": "win",
+				"navn": "Windows",
+				"systemid": {
+					"identifikatorverdi": "1"
+				},
+				"_links": {
+					"self": [
+						{
+							"href": "https://beta.felleskomponent.no/eiendeler/kodeverk/plattform/systemid/1"
+						}
+					]
+				}
+			},
+			{
+				"kode": "mac",
+				"navn": "Mac OS",
+				"systemid": {
+					"identifikatorverdi": "2"
+				},
+				"_links": {
+					"self": [
+						{
+							"href": "https://beta.felleskomponent.no/eiendeler/kodeverk/plattform/systemid/2"
+						}
+					]
+				}
+			},
+			{
+				"kode": "and",
+				"navn": "Android",
+				"systemid": {
+					"identifikatorverdi": "3"
+				},
+				"_links": {
+					"self": [
+						{
+							"href": "https://beta.felleskomponent.no/eiendeler/kodeverk/plattform/systemid/3"
+						}
+					]
+				}
+			},
+			{
+				"kode": "ios",
+				"navn": "IOS",
+				"systemid": {
+					"identifikatorverdi": "4"
+				},
+				"_links": {
+					"self": [
+						{
+							"href": "https://beta.felleskomponent.no/eiendeler/kodeverk/plattform/systemid/4"
+						}
+					]
+				}
+			}
+		]			
+	},
+	"_links": {
+		"self": [
+			{
+				"href": "https://beta.felleskomponent.no/eiendeler/kodeverk/plattform/"
+			}
+		]
+	},
+	"total_items": 4
+}

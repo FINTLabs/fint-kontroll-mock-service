@@ -4,334 +4,10 @@
   "name": "FINT",
   "endpointPrefix": "",
   "latency": 0,
-  "port": 3000,
+  "port": 3001,
   "hostname": "0.0.0.0",
   "folders": [],
   "routes": [
-    {
-      "uuid": "a08cc7b8-2c77-11ee-be56-0242ac120002",
-      "documentation": "",
-      "method": "get",
-      "endpoint": "eiendeler/applikasjon/applikasjon",
-      "responses": [
-        {
-          "uuid": "c3728394-2c77-11ee-be56-0242ac120002",
-          "body": "{}",
-          "latency": 0,
-          "statusCode": 200,
-          "label": "",
-          "headers": [],
-          "bodyType": "FILE",
-          "filePath": "./data/eiendeler_applikasjon_applikasjon.json",
-          "databucketID": "",
-          "sendFileAsBody": true,
-          "rules": [],
-          "rulesOperator": "OR",
-          "disableTemplating": false,
-          "fallbackTo404": false,
-          "default": true
-        }
-      ],
-      "enabled": true,
-      "responseMode": null
-    },
-    {
-      "uuid": "cda1c9c4-2c77-11ee-be56-0242ac120002",
-      "documentation": "",
-      "method": "get",
-      "endpoint": "eiendeler/applikasjon/lisens",
-      "responses": [
-        {
-          "uuid": "d577fc5e-2c77-11ee-be56-0242ac120002",
-          "body": "{}",
-          "latency": 0,
-          "statusCode": 200,
-          "label": "",
-          "headers": [],
-          "bodyType": "FILE",
-          "filePath": "./data/eiendeler_applikasjon_lisens.json",
-          "databucketID": "",
-          "sendFileAsBody": true,
-          "rules": [],
-          "rulesOperator": "OR",
-          "disableTemplating": false,
-          "fallbackTo404": false,
-          "default": true
-        }
-      ],
-      "enabled": true,
-      "responseMode": null
-    },
-    {
-      "uuid": "de050d6c-2c77-11ee-be56-0242ac120002",
-      "documentation": "",
-      "method": "get",
-      "endpoint": "eiendeler/applikasjon/lisenstildeling",
-      "responses": [
-        {
-          "uuid": "e27ef7ea-2c77-11ee-be56-0242ac120002",
-          "body": "{}",
-          "latency": 0,
-          "statusCode": 200,
-          "label": "",
-          "headers": [],
-          "bodyType": "FILE",
-          "filePath": "./data/eiendeler_applikasjon_lisenstildeling.json",
-          "databucketID": "",
-          "sendFileAsBody": true,
-          "rules": [],
-          "rulesOperator": "OR",
-          "disableTemplating": false,
-          "fallbackTo404": false,
-          "default": true
-        }
-      ],
-      "enabled": true,
-      "responseMode": null
-    },
-    {
-      "uuid": "e977fc90-2c77-11ee-be56-0242ac120002",
-      "documentation": "",
-      "method": "get",
-      "endpoint": "eiendeler/kodeverk/brukertype",
-      "responses": [
-        {
-          "uuid": "ed8b3658-2c77-11ee-be56-0242ac120002",
-          "body": "{}",
-          "latency": 0,
-          "statusCode": 200,
-          "label": "",
-          "headers": [],
-          "bodyType": "FILE",
-          "filePath": "./data/eiendeler_kodeverk_brukertype.json",
-          "databucketID": "",
-          "sendFileAsBody": true,
-          "rules": [],
-          "rulesOperator": "OR",
-          "disableTemplating": false,
-          "fallbackTo404": false,
-          "default": true
-        }
-      ],
-      "enabled": true,
-      "responseMode": null
-    },
-    {
-      "uuid": "f3270a42-2c77-11ee-be56-0242ac120002",
-      "documentation": "",
-      "method": "get",
-      "endpoint": "eiendeler/kodeverk/lisenstype",
-      "responses": [
-        {
-          "uuid": "f7a984dc-2c77-11ee-be56-0242ac120002",
-          "body": "{}",
-          "latency": 0,
-          "statusCode": 200,
-          "label": "",
-          "headers": [],
-          "bodyType": "FILE",
-          "filePath": "./data/eiendeler_kodeverk_lisenstype.json",
-          "databucketID": "",
-          "sendFileAsBody": true,
-          "rules": [],
-          "rulesOperator": "OR",
-          "disableTemplating": false,
-          "fallbackTo404": false,
-          "default": true
-        }
-      ],
-      "enabled": true,
-      "responseMode": null
-    },
-    {
-      "uuid": "fd85fb56-2c77-11ee-be56-0242ac120002",
-      "documentation": "",
-      "method": "get",
-      "endpoint": "eiendeler/kodeverk/plattform",
-      "responses": [
-        {
-          "uuid": "040d6d4c-2c78-11ee-be56-0242ac120002",
-          "body": "{}",
-          "latency": 0,
-          "statusCode": 200,
-          "label": "",
-          "headers": [],
-          "bodyType": "FILE",
-          "filePath": "./data/eiendeler_kodeverk_plattform.json",
-          "databucketID": "",
-          "sendFileAsBody": true,
-          "rules": [],
-          "rulesOperator": "OR",
-          "disableTemplating": false,
-          "fallbackTo404": false,
-          "default": true
-        }
-      ],
-      "enabled": true,
-      "responseMode": null
-    },
-    {
-      "uuid": "0bc65120-2c78-11ee-be56-0242ac120002",
-      "documentation": "",
-      "method": "get",
-      "endpoint": "eiendeler/applikasjon/applikasjon/last-updated",
-      "responses": [
-        {
-          "uuid": "10ac16de-2c78-11ee-be56-0242ac120002",
-          "body": "{\r\n\t\"lastUpdated\": \"1675781741945\"\r\n}",
-          "latency": 0,
-          "statusCode": 200,
-          "label": "",
-          "headers": [],
-          "bodyType": "INLINE",
-          "filePath": "",
-          "databucketID": "",
-          "sendFileAsBody": true,
-          "rules": [],
-          "rulesOperator": "OR",
-          "disableTemplating": false,
-          "fallbackTo404": false,
-          "default": true
-        }
-      ],
-      "enabled": true,
-      "responseMode": null
-    },
-    {
-      "uuid": "17e2a58a-2c78-11ee-be56-0242ac120002",
-      "documentation": "",
-      "method": "get",
-      "endpoint": "eiendeler/applikasjon/lisens/last-updated",
-      "responses": [
-        {
-          "uuid": "1c157628-2c78-11ee-be56-0242ac120002",
-          "body": "{\r\n\t\"lastUpdated\": \"1675781741945\"\r\n}",
-          "latency": 0,
-          "statusCode": 200,
-          "label": "",
-          "headers": [],
-          "bodyType": "INLINE",
-          "filePath": "",
-          "databucketID": "",
-          "sendFileAsBody": true,
-          "rules": [],
-          "rulesOperator": "OR",
-          "disableTemplating": false,
-          "fallbackTo404": false,
-          "default": true
-        }
-      ],
-      "enabled": true,
-      "responseMode": null
-    },
-    {
-      "uuid": "25bb4446-2c78-11ee-be56-0242ac120002",
-      "documentation": "",
-      "method": "get",
-      "endpoint": "eiendeler/applikasjon/lisenstildeling/last-updated",
-      "responses": [
-        {
-          "uuid": "21fbf620-2c78-11ee-be56-0242ac120002",
-          "body": "{\r\n\t\"lastUpdated\": \"1675781741945\"\r\n}",
-          "latency": 0,
-          "statusCode": 200,
-          "label": "",
-          "headers": [],
-          "bodyType": "INLINE",
-          "filePath": "",
-          "databucketID": "",
-          "sendFileAsBody": true,
-          "rules": [],
-          "rulesOperator": "OR",
-          "disableTemplating": false,
-          "fallbackTo404": false,
-          "default": true
-        }
-      ],
-      "enabled": true,
-      "responseMode": null
-    },
-    {
-      "uuid": "2d6fc6d0-2c78-11ee-be56-0242ac120002",
-      "documentation": "",
-      "method": "get",
-      "endpoint": "eiendeler/kodeverk/brukertype/last-updated",
-      "responses": [
-        {
-          "uuid": "30f1bda4-2c78-11ee-be56-0242ac120002",
-          "body": "{\r\n\t\"lastUpdated\": \"1675781741945\"\r\n}",
-          "latency": 0,
-          "statusCode": 200,
-          "label": "",
-          "headers": [],
-          "bodyType": "INLINE",
-          "filePath": "",
-          "databucketID": "",
-          "sendFileAsBody": true,
-          "rules": [],
-          "rulesOperator": "OR",
-          "disableTemplating": false,
-          "fallbackTo404": false,
-          "default": true
-        }
-      ],
-      "enabled": true,
-      "responseMode": null
-    },
-    {
-      "uuid": "38e15420-2c78-11ee-be56-0242ac120002",
-      "documentation": "",
-      "method": "get",
-      "endpoint": "eiendeler/kodeverk/lisenstype/last-updated",
-      "responses": [
-        {
-          "uuid": "3d9d2d22-2c78-11ee-be56-0242ac120002",
-          "body": "{\r\n\t\"lastUpdated\": \"1675781741945\"\r\n}",
-          "latency": 0,
-          "statusCode": 200,
-          "label": "",
-          "headers": [],
-          "bodyType": "INLINE",
-          "filePath": "",
-          "databucketID": "",
-          "sendFileAsBody": true,
-          "rules": [],
-          "rulesOperator": "OR",
-          "disableTemplating": false,
-          "fallbackTo404": false,
-          "default": true
-        }
-      ],
-      "enabled": true,
-      "responseMode": null
-    },
-    {
-      "uuid": "43fea11e-2c78-11ee-be56-0242ac120002",
-      "documentation": "",
-      "method": "get",
-      "endpoint": "eiendeler/kodeverk/plattform/last-updated",
-      "responses": [
-        {
-          "uuid": "480da3b8-2c78-11ee-be56-0242ac120002",
-          "body": "{\r\n\t\"lastUpdated\": \"1675781741945\"\r\n}",
-          "latency": 0,
-          "statusCode": 200,
-          "label": "",
-          "headers": [],
-          "bodyType": "INLINE",
-          "filePath": "",
-          "databucketID": "",
-          "sendFileAsBody": true,
-          "rules": [],
-          "rulesOperator": "OR",
-          "disableTemplating": false,
-          "fallbackTo404": false,
-          "default": true
-        }
-      ],
-      "enabled": true,
-      "responseMode": null
-    },
     {
       "uuid": "d096400f-2c64-4dbb-b904-f6c5a1b64469",
       "documentation": "",
@@ -346,7 +22,7 @@
           "label": "",
           "headers": [],
           "bodyType": "FILE",
-          "filePath": "./data/administrasjon_personal_personalressurs.json",
+          "filePath": "C:\\Users\\berntj\\git\\fint-kontroll-mockup\\Viken-mockup\\administrasjon_personal_personalressurs.json",
           "databucketID": "",
           "sendFileAsBody": true,
           "rules": [],
@@ -373,7 +49,7 @@
           "label": "",
           "headers": [],
           "bodyType": "FILE",
-          "filePath": "./data/administrasjon_personal_person.json",
+          "filePath": "C:\\Users\\berntj\\git\\fint-kontroll-mockup\\Viken-mockup\\administrasjon_personal_person.json",
           "databucketID": "",
           "sendFileAsBody": true,
           "rules": [],
@@ -400,7 +76,7 @@
           "label": "",
           "headers": [],
           "bodyType": "FILE",
-          "filePath": "./data/administrasjon_personal_arbeidsforhold.json",
+          "filePath": "C:\\Users\\berntj\\git\\fint-kontroll-mockup\\Viken-mockup\\administrasjon_personal_arbeidsforhold.json",
           "databucketID": "",
           "sendFileAsBody": true,
           "rules": [],
@@ -427,7 +103,7 @@
           "label": "",
           "headers": [],
           "bodyType": "FILE",
-          "filePath": "./data/administrasjon_organisasjon_organisasjonselement.json",
+          "filePath": "C:\\Users\\berntj\\git\\fint-kontroll-mockup\\Viken-mockup\\administrasjon_organisasjon_organisasjonselement.json",
           "databucketID": "",
           "sendFileAsBody": true,
           "rules": [],
@@ -562,7 +238,7 @@
           "label": "",
           "headers": [],
           "bodyType": "FILE",
-          "filePath": "./data/utdanning_elev_elev.json",
+          "filePath": "C:\\Users\\berntj\\git\\fint-kontroll-mockup\\Viken-mockup\\utdanning_elev_elev.json",
           "databucketID": "",
           "sendFileAsBody": true,
           "rules": [],
@@ -589,7 +265,7 @@
           "label": "",
           "headers": [],
           "bodyType": "FILE",
-          "filePath": "./data/utdanning_elev_person.json",
+          "filePath": "C:\\Users\\berntj\\git\\fint-kontroll-mockup\\Viken-mockup\\utdanning_elev_person.json",
           "databucketID": "",
           "sendFileAsBody": true,
           "rules": [],
@@ -616,7 +292,7 @@
           "label": "",
           "headers": [],
           "bodyType": "FILE",
-          "filePath": "./data/utdanning_elev_elevforhold.json",
+          "filePath": "C:\\Users\\berntj\\git\\fint-kontroll-mockup\\Viken-mockup\\utdanning_elev_elevforhold.json",
           "databucketID": "",
           "sendFileAsBody": true,
           "rules": [],
@@ -643,7 +319,7 @@
           "label": "",
           "headers": [],
           "bodyType": "FILE",
-          "filePath": "./data/utdanning_elev_basisgruppe.json",
+          "filePath": "C:\\Users\\berntj\\git\\fint-kontroll-mockup\\Viken-mockup\\utdanning_elev_basisgruppe.json",
           "databucketID": "",
           "sendFileAsBody": true,
           "rules": [],
@@ -670,7 +346,7 @@
           "label": "",
           "headers": [],
           "bodyType": "FILE",
-          "filePath": "./data/utdanning_utdanningsprogram_skole.json",
+          "filePath": "C:\\Users\\berntj\\git\\fint-kontroll-mockup\\Viken-mockup\\utdanning_utdanningsprogram_skole.json",
           "databucketID": "",
           "sendFileAsBody": true,
           "rules": [],
@@ -820,54 +496,6 @@
     }
   ],
   "rootChildren": [
-    {
-      "type": "route",
-      "uuid": "a08cc7b8-2c77-11ee-be56-0242ac120002"
-    },
-    {
-      "type": "route",
-      "uuid": "cda1c9c4-2c77-11ee-be56-0242ac120002"
-    },
-    {
-      "type": "route",
-      "uuid": "de050d6c-2c77-11ee-be56-0242ac120002"
-    },
-    {
-      "type": "route",
-      "uuid": "e977fc90-2c77-11ee-be56-0242ac120002"
-    },
-    {
-      "type": "route",
-      "uuid": "f3270a42-2c77-11ee-be56-0242ac120002"
-    },
-    {
-      "type": "route",
-      "uuid": "fd85fb56-2c77-11ee-be56-0242ac120002"
-    },
-    {
-      "type": "route",
-      "uuid": "0bc65120-2c78-11ee-be56-0242ac120002"
-    },
-    {
-      "type": "route",
-      "uuid": "17e2a58a-2c78-11ee-be56-0242ac120002"
-    },
-    {
-      "type": "route",
-      "uuid": "25bb4446-2c78-11ee-be56-0242ac120002"
-    },
-    {
-      "type": "route",
-      "uuid": "2d6fc6d0-2c78-11ee-be56-0242ac120002"
-    },
-    {
-      "type": "route",
-      "uuid": "38e15420-2c78-11ee-be56-0242ac120002"
-    },
-    {
-      "type": "route",
-      "uuid": "43fea11e-2c78-11ee-be56-0242ac120002"
-    },
     {
       "type": "route",
       "uuid": "d096400f-2c64-4dbb-b904-f6c5a1b64469"

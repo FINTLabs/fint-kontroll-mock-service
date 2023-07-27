@@ -1,0 +1,56 @@
+{
+	"_embedded": {
+		"_entries": [
+			{
+				"kode": "elev",
+				"navn": "Elev",
+				"systemId": {
+					"identifikatorverdi": "1"
+				},
+				"_links": {
+					"self": [
+						{
+							"href": "https://beta.felleskomponent.no/eiendeler/kodeverk/brukertype/systemid/1"
+						}
+					]
+				}
+			},
+			{
+				"kode": "ansatt",
+				"navn": "Ansatt",
+				"systemid": {
+					"identifikatorverdi": "2"
+				},
+				"_links": {
+					"self": [
+						{
+							"href": "https://beta.felleskomponent.no/eiendeler/kodeverk/brukertype/systemid/2"
+						}
+					]
+				}
+			},
+			{
+				"kode": "ansatt-skole",
+				"navn": "Ansatt skole",
+				"systemid": {
+					"identifikatorverdi": "3"
+				},
+				"_links": {
+					"self": [
+						{
+							"href": "https://beta.felleskomponent.no/eiendeler/kodeverk/brukertype/systemid/3"
+						}
+					]
+				}
+			}			
+		]			
+	},
+	"_links": {
+		"self": [
+			{
+				"href": "https://beta.felleskomponent.no/eiendeler/kodeverk/brukertype/"
+			}
+		]
+	},
+	"total_items": 3
+}

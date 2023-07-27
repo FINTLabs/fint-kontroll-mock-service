@@ -1,0 +1,50 @@
+{
+  "_embedded":
+  {  
+    "_entries":[
+      {
+        "systemid": {
+          "identifikatorverdi": "1ea37c4ca39cfd02450e7757"
+        },
+        "applikasjonsnavn": "Adobe Creative Cloud All Apps for K-12",
+        "beskrivelse": "Inneholder alle applikasjoner i Adobes Creative Cloud suite",
+        "_links": {
+          "lisens": [
+              {
+                "href": "https://beta.felleskomponent.no/eiendeler/applikasjon/lisens/systemid/f887f35a0fab01f3e3e2c5c2"
+              },
+              {
+                "href": "https://beta.felleskomponent.no/eiendeler/applikasjon/lisens/systemid/ff75076c4ce53f5ca51b1cbb"
+              }
+          ],
+          "applikasjonskategori": [
+              {
+                "href": "https://beta.felleskomponent.no/eiendeler/kodeverk/applikasjonskategori/systemid/ped-prog"
+              }
+          ],
+          "stottetplattform": [
+              {
+                "href": "https://beta.felleskomponent.no/eiendeler/kodeverk/plattform/systemid/1"
+              },
+              {
+                "href": "https://beta.felleskomponent.no/eiendeler/kodeverk/plattform/systemid/2"
+              }
+          ],
+          "self": [
+              {
+                "href": "https://beta.felleskomponent.no/eiendeler/applikasjon/applikasjon/systemid/1ea37c4ca39cfd02450e7757"
+              }
+          ]
+        }
+      }
+    ]
+  },
+	"_links": {
+		"self": [
+			{
+				"href": "https://beta.felleskomponent.no/eiendeler/applikasjon/applikasjon/"
+			}
+		]
+	},
+  "total_items":1
+}
