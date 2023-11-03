@@ -1,0 +1,56 @@
+{
+	"_embedded": {
+		"_entries": [
+			{
+				"kode": "user",
+				"navn": "User based license",
+				"systemid": {
+					"identifikatorverdi": "1"
+				},
+				"_links": {
+					"self": [
+						{
+							"href": "https://beta.felleskomponent.no/eiendeler/kodeverk/lisensmodell/systemid/1"
+						}
+					]
+				}
+			},
+			{
+				"kode": "device",
+				"navn": "Device based license",
+				"systemid": {
+					"identifikatorverdi": "2"
+				},
+				"_links": {
+					"self": [
+						{
+							"href": "https://beta.felleskomponent.no/eiendeler/kodeverk/lisensmodell/systemid/2"
+						}
+					]
+				}
+			},
+			{
+				"kode": "site",
+				"navn": "Site license",
+				"systemid": {
+					"identifikatorverdi": "3"
+				},
+				"_links": {
+					"self": [
+						{
+							"href": "https://beta.felleskomponent.no/eiendeler/kodeverk/lisensmodell/systemid/3"
+						}
+					]
+				}
+			}			
+		]			
+	},
+	"_links": {
+		"self": [
+			{
+				"href": "https://beta.felleskomponent.no/eiendeler/kodeverk/lisensmodell/"
+			}
+		]
+	},
+	"total_items": 3
+}
