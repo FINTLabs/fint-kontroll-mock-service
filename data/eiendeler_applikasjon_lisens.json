@@ -15,7 +15,7 @@
                 "href": "https://beta.felleskomponent.no/eiendeler/applikasjon/applikasjon/systemid/1ea37c4ca39cfd02450e7757"
               }
           ],
-          "lisenstype":[
+          "lisensmodell":[
               {
                 "href": "https://beta.felleskomponent.no/eiendeler/kodeverk/lisensmodell/systemid/2"
               }
@@ -30,7 +30,7 @@
           ],
           "lisenseier": [
               {
-                "href": "https://api.felleskomponent.no/administrasjon/organisasjon/organisasjonselement/organisasjonskode/V40.43.25"
+                "href": "https://api.felleskomponent.no/administrasjon/organisasjon/organisasjonselement/organisasjonsId/198"
               }
           ],
           "lisenstilgang":[
@@ -58,7 +58,7 @@
                 "href": "https://beta.felleskomponent.no/eiendeler/applikasjon/applikasjon/systemid/1ea37c4ca39cfd02450e7757"
               }
           ],
-          "lisenstype":[
+          "lisensmodell":[
               {
                 "href": "https://beta.felleskomponent.no/eiendeler/kodeverk/lisensmodell/systemid/2"
               }

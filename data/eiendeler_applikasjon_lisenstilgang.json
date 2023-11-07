@@ -10,7 +10,7 @@
         "_links": {
           "lisenskonsument": [
               {
-                "href": "https://beta.felleskomponent.no/administrasjon/organisasjon/organisasjonselement/organisasjonskode/V40.43.25"
+                "href": "https://beta.felleskomponent.no/administrasjon/organisasjon/organisasjonselement/organisasjonsId/198"
               }
           ],
           "lisens":[
@@ -33,7 +33,7 @@
         "_links": {
           "lisenskonsument": [
               {
-                "href": "https://beta.felleskomponent.no/administrasjon/organisasjon/organisasjonselement/organisasjonskode/V40.43.25"
+                "href": "https://beta.felleskomponent.no/administrasjon/organisasjon/organisasjonselement/organisasjonsId/198"
               }
           ],
           "lisens":[
@@ -56,7 +56,7 @@
         "_links": {
           "lisenskonsument": [
               {
-                "href": "https://beta.felleskomponent.no/administrasjon/organisasjon/organisasjonselement/organisasjonskode/V40.44.13"
+                "href": "https://beta.felleskomponent.no/administrasjon/organisasjon/organisasjonselement/organisasjonsId/153"
               }
           ],
           "lisens":[
@@ -79,7 +79,7 @@
         "_links": {
           "lisenskonsument": [
               {
-                "href": "https://beta.felleskomponent.no/administrasjon/organisasjon/organisasjonselement/organisasjonskode/V40.41.13"
+                "href": "https://beta.felleskomponent.no/administrasjon/organisasjon/organisasjonselement/organisasjonsId/1178"
               }
           ],
           "lisens":[
