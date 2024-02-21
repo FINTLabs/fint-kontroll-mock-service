@@ -10,7 +10,6 @@
   "routes": [
     {
       "uuid": "ea1c43fd-3744-4045-875e-e245e7399e33",
-      "type": "http",
       "documentation": "",
       "method": "get",
       "endpoint": "utdanning/timeplan/undervisningsgruppemedlemskap",
@@ -30,16 +29,14 @@
           "rulesOperator": "OR",
           "disableTemplating": false,
           "fallbackTo404": false,
-          "default": true,
-          "crudKey": "id",
-          "callbacks": []
+          "default": true
         }
       ],
+      "enabled":true,
       "responseMode": null
     },
     {
       "uuid": "d4bb9e05-92ef-47d7-b375-ee7da4f6d8b8",
-      "type": "http",
       "documentation": "",
       "method": "get",
       "endpoint": "utdanning/timeplan/undervisningsgruppemedlemskap/last-updated",
@@ -59,16 +56,14 @@
           "rulesOperator": "OR",
           "disableTemplating": false,
           "fallbackTo404": false,
-          "default": true,
-          "crudKey": "id",
-          "callbacks": []
+          "default": true
         }
       ],
+      "enabled":true,
       "responseMode": null
     },
     {
       "uuid": "54eb4143-8296-4b2f-a516-10d4fed96958",
-      "type": "http",
       "documentation": "",
       "method": "get",
       "endpoint": "utdanning/timeplan/undervisningsgruppe",
@@ -88,16 +83,14 @@
           "rulesOperator": "OR",
           "disableTemplating": false,
           "fallbackTo404": false,
-          "default": true,
-          "crudKey": "id",
-          "callbacks": []
+          "default": true
         }
       ],
+      "enabled":true,
       "responseMode": null
     },
     {
       "uuid": "d12455d0-5a71-47fc-a3ed-898507039b58",
-      "type": "http",
       "documentation": "",
       "method": "get",
       "endpoint": "utdanning/timeplan/undervisningsgruppe/last-updated",
@@ -117,11 +110,10 @@
           "rulesOperator": "OR",
           "disableTemplating": false,
           "fallbackTo404": false,
-          "default": true,
-          "crudKey": "id",
-          "callbacks": []
+          "default": true
         }
       ],
+      "enabled":true,
       "responseMode": null
     },
     {
