@@ -9,6 +9,122 @@
   "folders": [],
   "routes": [
     {
+      "uuid": "ea1c43fd-3744-4045-875e-e245e7399e33",
+      "type": "http",
+      "documentation": "",
+      "method": "get",
+      "endpoint": "utdanning/timeplan/undervisningsgruppemedlemskap",
+      "responses": [
+        {
+          "uuid": "95ebf628-c4bb-4b09-ad3a-8a7368144ba8",
+          "body": "{}",
+          "latency": 0,
+          "statusCode": 200,
+          "label": "",
+          "headers": [],
+          "bodyType": "FILE",
+          "filePath": "./data/utdanning_timeplan_undervisningsgruppemedlemskap.json",
+          "databucketID": "",
+          "sendFileAsBody": true,
+          "rules": [],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": true,
+          "crudKey": "id",
+          "callbacks": []
+        }
+      ],
+      "responseMode": null
+    },
+    {
+      "uuid": "d4bb9e05-92ef-47d7-b375-ee7da4f6d8b8",
+      "type": "http",
+      "documentation": "",
+      "method": "get",
+      "endpoint": "utdanning/timeplan/undervisningsgruppemedlemskap/last-updated",
+      "responses": [
+        {
+          "uuid": "f8af7125-dc11-4dde-b371-855d1bcfff40",
+          "body": "{\r\n\t\"lastUpdated\": \"1675781741945\"\r\n}",
+          "latency": 0,
+          "statusCode": 200,
+          "label": "",
+          "headers": [],
+          "bodyType": "INLINE",
+          "filePath": "",
+          "databucketID": "",
+          "sendFileAsBody": false,
+          "rules": [],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": true,
+          "crudKey": "id",
+          "callbacks": []
+        }
+      ],
+      "responseMode": null
+    },
+    {
+      "uuid": "54eb4143-8296-4b2f-a516-10d4fed96958",
+      "type": "http",
+      "documentation": "",
+      "method": "get",
+      "endpoint": "utdanning/timeplan/undervisningsgruppe",
+      "responses": [
+        {
+          "uuid": "d59330a9-f7f7-4414-887f-a78990da50b1",
+          "body": "{}",
+          "latency": 0,
+          "statusCode": 200,
+          "label": "",
+          "headers": [],
+          "bodyType": "FILE",
+          "filePath": "./data/utdanning_timeplan_undervisningsgruppe.json",
+          "databucketID": "",
+          "sendFileAsBody": true,
+          "rules": [],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": true,
+          "crudKey": "id",
+          "callbacks": []
+        }
+      ],
+      "responseMode": null
+    },
+    {
+      "uuid": "d12455d0-5a71-47fc-a3ed-898507039b58",
+      "type": "http",
+      "documentation": "",
+      "method": "get",
+      "endpoint": "utdanning/timeplan/undervisningsgruppe/last-updated",
+      "responses": [
+        {
+          "uuid": "c373031b-b51e-4268-9800-9c51ededfa7b",
+          "body": "{\r\n\t\"lastUpdated\": \"1675781741945\"\r\n}",
+          "latency": 0,
+          "statusCode": 200,
+          "label": "",
+          "headers": [],
+          "bodyType": "INLINE",
+          "filePath": "",
+          "databucketID": "",
+          "sendFileAsBody": false,
+          "rules": [],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": true,
+          "crudKey": "id",
+          "callbacks": []
+        }
+      ],
+      "responseMode": null
+    },
+    {
       "uuid": "a08cc7b8-2c77-11ee-be56-0242ac120002",
       "documentation": "",
       "method": "get",
@@ -939,6 +1055,22 @@
     {
       "type": "route",
       "uuid": "cdcb703f-fb1e-402c-b17c-d8345d56d311"
+    },
+    {
+      "type": "route",
+      "uuid": "ea1c43fd-3744-4045-875e-e245e7399e33"
+    },
+    {
+      "type": "route",
+      "uuid": "d4bb9e05-92ef-47d7-b375-ee7da4f6d8b8"
+    },
+    {
+      "type": "route",
+      "uuid": "54eb4143-8296-4b2f-a516-10d4fed96958"
+    },
+    {
+      "type": "route",
+      "uuid": "d12455d0-5a71-47fc-a3ed-898507039b58"
     }
   ],
   "proxyMode": false,
