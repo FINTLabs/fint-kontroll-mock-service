@@ -9,6 +9,60 @@
   "folders": [],
   "routes": [
     {
+      "uuid": "3b5afeec-d58a-4040-ba59-b062b7997ea2",
+      "documentation": "",
+      "method": "get",
+      "endpoint": "utdanning/elev/skoleressurs",
+      "responses": [
+        {
+          "uuid": "a1bbbeb3-5c01-4573-be95-16b3f509127d",
+          "body": "{}",
+          "latency": 0,
+          "statusCode": 200,
+          "label": "",
+          "headers": [],
+          "bodyType": "FILE",
+          "filePath": "./data/utdanning_elev_skoleressurs.json",
+          "databucketID": "",
+          "sendFileAsBody": true,
+          "rules": [],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": true
+        }
+      ],
+      "enabled":true,
+      "responseMode": null
+    },
+    {
+      "uuid": "d85e279c-453d-4f29-99f1-9e2fff967c53",
+      "documentation": "",
+      "method": "get",
+      "endpoint": "utdanning/elev/skoleressurs/last-updated",
+      "responses": [
+        {
+          "uuid": "607bb828-42c0-4b91-b235-01c5cee4353f",
+          "body": "{\r\n\t\"lastUpdated\": \"1675781741945\"\r\n}",
+          "latency": 0,
+          "statusCode": 200,
+          "label": "",
+          "headers": [],
+          "bodyType": "INLINE",
+          "filePath": "",
+          "databucketID": "",
+          "sendFileAsBody": false,
+          "rules": [],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": true
+        }
+      ],
+      "enabled":true,
+      "responseMode": null
+    },
+    {
       "uuid": "ea1c43fd-3744-4045-875e-e245e7399e33",
       "documentation": "",
       "method": "get",
@@ -1063,6 +1117,15 @@
     {
       "type": "route",
       "uuid": "d12455d0-5a71-47fc-a3ed-898507039b58"
+    }
+    ,
+    {
+      "type": "route",
+      "uuid": "3b5afeec-d58a-4040-ba59-b062b7997ea2"
+    },
+    {
+      "type": "route",
+      "uuid": "d85e279c-453d-4f29-99f1-9e2fff967c53"
     }
   ],
   "proxyMode": false,
