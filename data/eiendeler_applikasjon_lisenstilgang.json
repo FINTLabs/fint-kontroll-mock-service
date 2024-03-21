@@ -3,7 +3,7 @@
   {  
     "_entries":[
       {
-        "systemid": {
+        "systemId": {
           "identifikatorverdi": "12345"
         },
         "lisensantall": 25,
@@ -26,7 +26,7 @@
         }
       },
       {
-        "systemid": {
+        "systemId": {
           "identifikatorverdi": "12346"
         },
         "lisensantall": 200,
@@ -49,7 +49,7 @@
         }
       },
       { 
-        "systemid": {
+        "systemId": {
           "identifikatorverdi": "12347"
         },
         "lisensantall": 300,
@@ -72,7 +72,7 @@
         }
       },
       {
-        "systemid": {
+        "systemId": {
           "identifikatorverdi": "12348"
         },
         "lisensantall": 500,

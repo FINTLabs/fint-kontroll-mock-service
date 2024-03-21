@@ -18,7 +18,7 @@
 			{
 				"kode": "ansatt",
 				"navn": "Ansatt",
-				"systemid": {
+				"systemId": {
 					"identifikatorverdi": "2"
 				},
 				"_links": {
@@ -32,7 +32,7 @@
 			{
 				"kode": "ansatt-skole",
 				"navn": "Ansatt skole",
-				"systemid": {
+				"systemId": {
 					"identifikatorverdi": "3"
 				},
 				"_links": {

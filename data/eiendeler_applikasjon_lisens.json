@@ -3,7 +3,7 @@
   {  
     "_entries":[
       {
-        "systemid": {
+        "systemId": {
           "identifikatorverdi": "f887f35a0fab01f3e3e2c5c2"
         },
         "lisensnavn": "Creative Cloud All Apps for K-12 - Shared Device",
@@ -12,20 +12,20 @@
         "_links": {
           "applikasjon": [
               {
-                "href": "https://beta.felleskomponent.no/eiendeler/applikasjon/applikasjon/systemid/1ea37c4ca39cfd02450e7757"
+                "href": "https://beta.felleskomponent.no/eiendeler/applikasjon/applikasjon/systemId/1ea37c4ca39cfd02450e7757"
               }
           ],
           "lisensmodell":[
               {
-                "href": "https://beta.felleskomponent.no/eiendeler/kodeverk/lisensmodell/systemid/2"
+                "href": "https://beta.felleskomponent.no/eiendeler/kodeverk/lisensmodell/systemId/2"
               }
           ],
           "tilgjengeligforbrukertype":[
               {
-                "href": "https://beta.felleskomponent.no/eiendeler/kodeverk/brukertype/systemid/1"
+                "href": "https://beta.felleskomponent.no/eiendeler/kodeverk/brukertype/systemId/1"
               },
 {
-                "href": "https://beta.felleskomponent.no/eiendeler/kodeverk/brukertype/systemid/3"
+                "href": "https://beta.felleskomponent.no/eiendeler/kodeverk/brukertype/systemId/3"
               }
           ],
           "lisenseier": [
@@ -35,18 +35,18 @@
           ],
           "lisenstilgang":[
               {
-                "href": "https://beta.felleskomponent.no/eiendeler/applikasjon/lisenstilgang/systemid/12345"
+                "href": "https://beta.felleskomponent.no/eiendeler/applikasjon/lisenstilgang/systemId/12345"
               }
           ],
           "self": [
               {
-                "href": "https://beta.felleskomponent.no/eiendeler/applikasjon/lisens/systemid/f887f35a0fab01f3e3e2c5c2"
+                "href": "https://beta.felleskomponent.no/eiendeler/applikasjon/lisens/systemId/f887f35a0fab01f3e3e2c5c2"
               }
           ]
         }
       },
       {
-        "systemid": {
+        "systemId": {
           "identifikatorverdi": "ff75076c4ce53f5ca51b1cbb"
         },
         "lisensnavn": "Creative Cloud All Apps for K-12 - User License",
@@ -55,20 +55,20 @@
         "_links": {
           "applikasjon": [
               {
-                "href": "https://beta.felleskomponent.no/eiendeler/applikasjon/applikasjon/systemid/1ea37c4ca39cfd02450e7757"
+                "href": "https://beta.felleskomponent.no/eiendeler/applikasjon/applikasjon/systemId/1ea37c4ca39cfd02450e7757"
               }
           ],
           "lisensmodell":[
               {
-                "href": "https://beta.felleskomponent.no/eiendeler/kodeverk/lisensmodell/systemid/2"
+                "href": "https://beta.felleskomponent.no/eiendeler/kodeverk/lisensmodell/systemId/2"
               }
           ],
           "tilgjengeligforbrukertype":[
               {
-                "href": "https://beta.felleskomponent.no/eiendeler/kodeverk/brukertype/systemid/1"
+                "href": "https://beta.felleskomponent.no/eiendeler/kodeverk/brukertype/systemId/1"
               },
 {
-                "href": "https://beta.felleskomponent.no/eiendeler/kodeverk/brukertype/systemid/3"
+                "href": "https://beta.felleskomponent.no/eiendeler/kodeverk/brukertype/systemId/3"
               }
           ],
           "lisenseier": [
@@ -78,18 +78,18 @@
           ],
           "lisenstilgang":[
               {
-                "href": "https://beta.felleskomponent.no/eiendeler/applikasjon/lisenstilgang/systemid/12346"
+                "href": "https://beta.felleskomponent.no/eiendeler/applikasjon/lisenstilgang/systemId/12346"
               },
               {
-                "href": "https://beta.felleskomponent.no/eiendeler/applikasjon/lisenstilgang/systemid/12347"
+                "href": "https://beta.felleskomponent.no/eiendeler/applikasjon/lisenstilgang/systemId/12347"
               },
               {
-                "href": "https://beta.felleskomponent.no/eiendeler/applikasjon/lisenstilgang/systemid/12348"
+                "href": "https://beta.felleskomponent.no/eiendeler/applikasjon/lisenstilgang/systemId/12348"
               }
           ],
           "self": [
               {
-                "href": "https://beta.felleskomponent.no/eiendeler/applikasjon/lisens/systemid/ff75076c4ce53f5ca51b1cbb"
+                "href": "https://beta.felleskomponent.no/eiendeler/applikasjon/lisens/systemId/ff75076c4ce53f5ca51b1cbb"
               }
           ]
         }

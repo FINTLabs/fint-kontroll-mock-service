@@ -4,7 +4,7 @@
 			{
 				"kode": "user",
 				"navn": "User based license",
-				"systemid": {
+				"systemId": {
 					"identifikatorverdi": "1"
 				},
 				"_links": {
@@ -18,7 +18,7 @@
 			{
 				"kode": "device",
 				"navn": "Device based license",
-				"systemid": {
+				"systemId": {
 					"identifikatorverdi": "2"
 				},
 				"_links": {
@@ -32,7 +32,7 @@
 			{
 				"kode": "site",
 				"navn": "Site license",
-				"systemid": {
+				"systemId": {
 					"identifikatorverdi": "3"
 				},
 				"_links": {
