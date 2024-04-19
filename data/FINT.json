@@ -306,6 +306,33 @@
       "responseMode": null
     },
     {
+      "uuid": "ccf5d7e4-fe37-11ee-92c8-0242ac120002",
+      "documentation": "",
+      "method": "get",
+      "endpoint": "eiendeler/kodeverk/applikasjonskategori",
+      "responses": [
+        {
+          "uuid": "f95f69ee-fe37-11ee-92c8-0242ac120002",
+          "body": "{}",
+          "latency": 0,
+          "statusCode": 200,
+          "label": "",
+          "headers": [],
+          "bodyType": "FILE",
+          "filePath": "./data/eiendeler_kodeverk_applikasjonskategori.json",
+          "databucketID": "",
+          "sendFileAsBody": true,
+          "rules": [],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": true
+        }
+      ],
+      "enabled": true,
+      "responseMode": null
+    },
+    {
       "uuid": "fd85fb56-2c77-11ee-be56-0242ac120002",
       "documentation": "",
       "method": "get",
@@ -475,6 +502,33 @@
       "responses": [
         {
           "uuid": "480da3b8-2c78-11ee-be56-0242ac120002",
+          "body": "{\r\n\t\"lastUpdated\": \"1675781741945\"\r\n}",
+          "latency": 0,
+          "statusCode": 200,
+          "label": "",
+          "headers": [],
+          "bodyType": "INLINE",
+          "filePath": "",
+          "databucketID": "",
+          "sendFileAsBody": true,
+          "rules": [],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": true
+        }
+      ],
+      "enabled": true,
+      "responseMode": null
+    },
+    {
+      "uuid": "a5b5aed8-fe38-11ee-92c8-0242ac120002",
+      "documentation": "",
+      "method": "get",
+      "endpoint": "eiendeler/kodeverk/applikasjonskategori/last-updated",
+      "responses": [
+        {
+          "uuid": "ae2b455a-fe38-11ee-92c8-0242ac120002",
           "body": "{\r\n\t\"lastUpdated\": \"1675781741945\"\r\n}",
           "latency": 0,
           "statusCode": 200,
@@ -1122,6 +1176,14 @@
     {
       "type": "route",
       "uuid": "3b5afeec-d58a-4040-ba59-b062b7997ea2"
+    },
+    {
+      "type": "route",
+      "uuid": "a5b5aed8-fe38-11ee-92c8-0242ac120002"
+    },
+    {
+      "type": "route",
+      "uuid": "ccf5d7e4-fe37-11ee-92c8-0242ac120002"
     },
     {
       "type": "route",
