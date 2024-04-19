@@ -1,0 +1,56 @@
+{
+	"_embedded": {
+		"_entries": [
+			{
+				"kode": "ped-prog",
+				"navn": "Pedagogisk programvare",
+				"systemId": {
+					"identifikatorverdi": "ped-prog"
+				},
+				"_links": {
+					"self": [
+						{
+							"href": "https://beta.felleskomponent.no/eiendeler/kodeverk/applikasjonskategori/systemid/ped-prog"
+						}
+					]
+				}
+			},
+			{
+				"kode": "fagsys",
+				"navn": "Fagsystemer",
+				"systemId": {
+					"identifikatorverdi": "fagsys"
+				},
+				"_links": {
+					"self": [
+						{
+							"href": "https://beta.felleskomponent.no/eiendeler/kodeverk/applikasjonskategori/systemid/fagsys"
+						}
+					]
+				}
+			},
+			{
+				"kode": "some",
+				"navn": "Sosiale medier",
+				"systemId": {
+					"identifikatorverdi": "some"
+				},
+				"_links": {
+					"self": [
+						{
+							"href": "https://beta.felleskomponent.no/eiendeler/kodeverk/applikasjonskategori/systemid/some"
+						}
+					]
+				}
+			}
+		]			
+	},
+	"_links": {
+		"self": [
+			{
+				"href": "https://beta.felleskomponent.no/eiendeler/kodeverk/applikasjonskategori/"
+			}
+		]
+	},
+	"total_items": 3
+}
