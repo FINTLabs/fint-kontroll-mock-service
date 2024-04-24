@@ -93,7 +93,50 @@
               }
           ]
         }
-      }      
+      },
+      {
+        "systemId": {
+          "identifikatorverdi": "ff75076c4ce53f5ca518989"
+        },
+        "lisensnavn": "Solid Works Edu",
+        "lisensantall": 50,
+        "beskrivelse": "Teknisk tegneverktøy for utdanning",
+        "_links": {
+          "applikasjon": [
+              {
+                "href": "https://beta.felleskomponent.no/eiendeler/applikasjon/applikasjon/systemId/1ea37c4ca39cfd02450e8989"
+              }
+          ],
+          "lisensmodell":[
+              {
+                "href": "https://beta.felleskomponent.no/eiendeler/kodeverk/lisensmodell/systemId/2"
+              }
+          ],
+          "tilgjengeligforbrukertype":[
+              {
+                "href": "https://beta.felleskomponent.no/eiendeler/kodeverk/brukertype/systemId/1"
+              },
+{
+                "href": "https://beta.felleskomponent.no/eiendeler/kodeverk/brukertype/systemId/3"
+              }
+          ],
+          "lisenseier": [
+              {
+                "href": "https://beta.felleskomponent.no/administrasjon/organisasjon/organisasjonselement/organisasjonsId/153"
+              }
+          ],
+          "lisenstilgang":[
+              {
+                "href": "https://beta.felleskomponent.no/eiendeler/applikasjon/lisenstilgang/systemId/121212"
+              }
+          ],
+          "self": [
+              {
+                "href": "https://beta.felleskomponent.no/eiendeler/applikasjon/lisens/systemId/ff75076c4ce53f5ca518989"
+              }
+          ]
+        }
+      }            
     ]
   },
 	"_links": {

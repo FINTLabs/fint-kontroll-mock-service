@@ -36,6 +36,38 @@
               }
           ]
         }
+      },
+      {
+        "systemId": {
+          "identifikatorverdi": "1ea37c4ca39cfd02450e8989"
+        },
+        "applikasjonsnavn": "Solid works",
+        "beskrivelse": "Verktøy for teknisk tegning",
+        "_links": {
+          "lisens": [
+              {
+                "href": "https://beta.felleskomponent.no/eiendeler/applikasjon/lisens/systemid/ff75076c4ce53f5ca518989"
+              }
+          ],
+          "applikasjonskategori": [
+              {
+                "href": "https://beta.felleskomponent.no/eiendeler/kodeverk/applikasjonskategori/systemid/fagsys"
+              }
+          ],
+          "stottetplattform": [
+              {
+                "href": "https://beta.felleskomponent.no/eiendeler/kodeverk/plattform/systemid/1"
+              },
+              {
+                "href": "https://beta.felleskomponent.no/eiendeler/kodeverk/plattform/systemid/2"
+              }
+          ],
+          "self": [
+              {
+                "href": "https://beta.felleskomponent.no/eiendeler/applikasjon/applikasjon/systemid/1ea37c4ca39cfd02450e8989"
+              }
+          ]
+        }
       }
     ]
   },
@@ -46,5 +78,5 @@
 			}
 		]
 	},
-  "total_items":1
+  "total_items":2
 }
