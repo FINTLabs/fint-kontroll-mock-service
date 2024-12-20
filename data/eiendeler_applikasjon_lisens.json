@@ -24,8 +24,11 @@
               {
                 "href": "https://beta.felleskomponent.no/eiendeler/kodeverk/brukertype/systemId/1"
               },
-{
+              {
                 "href": "https://beta.felleskomponent.no/eiendeler/kodeverk/brukertype/systemId/3"
+              },
+              {
+                "href": "https://beta.felleskomponent.no/eiendeler/kodeverk/brukertype/systemid/2"
               }
           ],
           "lisenseier": [
@@ -114,9 +117,9 @@
           ],
           "tilgjengeligforbrukertype":[
               {
-                "href": "https://beta.felleskomponent.no/eiendeler/kodeverk/brukertype/systemId/1"
+                "href": "https://beta.felleskomponent.no/eiendeler/kodeverk/brukertype/systemId/2"
               },
-{
+              {
                 "href": "https://beta.felleskomponent.no/eiendeler/kodeverk/brukertype/systemId/3"
               }
           ],
