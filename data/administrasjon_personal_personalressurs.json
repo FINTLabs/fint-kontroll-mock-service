@@ -49,6 +49,9 @@
           "arbeidsforhold": [
             {
               "href": "https://beta.felleskomponent.no/administrasjon/personal/arbeidsforhold/systemid/5dad7056-d9bd-4c7d-ae3c-09e16344ab5d"
+            },
+            {
+              "href": "https://beta.felleskomponent.no/administrasjon/personal/arbeidsforhold/systemid/a74289f2-cfc0-4a6d-b1f8-d253b7c22a44"
             }
           ],
           "person": [

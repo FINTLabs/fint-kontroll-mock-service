@@ -62,13 +62,59 @@
                 "lonnsprosent": 10000,
                 "stillingsnummer": "1",
                 "systemId": {
-                    "identifikatorverdi": "5dad7056-d9bd-4c7d-ae3c-09e16344ab5d"
+                    "identifikatorverdi": "a74289f2-cfc0-4a6d-b1f8-d253b7c22a44"
                 },
                 "tilstedeprosent": 10000,
                 "_links": {
                     "arbeidssted": [
                         {
                             "href": "https://beta.felleskomponent.no/administrasjon/organisasjon/organisasjonselement/organisasjonsid/26"
+                        }
+                    ],
+                    "personalressurs": [
+                        {
+                            "href": "https://beta.felleskomponent.no/administrasjon/personal/personalressurs/ansattnummer/1002"
+                        }
+                    ],
+                    "arbeidsforholdstype": [
+                        {
+                            "href": "https://beta.felleskomponent.no/administrasjon/kodeverk/arbeidsforholdstype/systemid/F"
+                        }
+                    ],
+                    "stillingskode": [
+                        {
+                            "href": "https://beta.felleskomponent.no/administrasjon/kodeverk/stillingskode/systemid/Dummy"
+                        }
+                    ],
+                    "self": [
+                        {
+                            "href": "https://beta.felleskomponent.no/administrasjon/personal/arbeidsforhold/systemid/a74289f2-cfc0-4a6d-b1f8-d253b7c22a44"
+                        }
+                    ]
+                }
+            },
+            {
+                "ansettelsesprosent": 10000,
+                "arbeidsforholdsperiode": {
+                    "slutt": "2030-12-31T01:00:00Z",
+                    "start": "2023-01-01T01:00:00Z"
+                },
+                "arslonn": 0,
+                "gyldighetsperiode": {
+                    "slutt": "2023-01-01T01:00:00Z",
+                    "start": "2023-01-01T01:00:00Z"
+                },
+                "hovedstilling": true,
+                "lonnsprosent": 10000,
+                "stillingsnummer": "1",
+                "systemId": {
+                    "identifikatorverdi": "5dad7056-d9bd-4c7d-ae3c-09e16344ab5d"
+                },
+                "tilstedeprosent": 10000,
+                "_links": {
+                    "arbeidssted": [
+                        {
+                            "href": "https://beta.felleskomponent.no/administrasjon/organisasjon/organisasjonselement/organisasjonsid/5"
                         }
                     ],
                     "personalressurs": [
