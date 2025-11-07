@@ -10,7 +10,7 @@
 				"_links": {
 					"self": [
 						{
-							"href": "https://beta.felleskomponent.no/eiendeler/kodeverk/lisensmodell/systemid/1"
+							"href": "https://beta.felleskomponent.no/ressurs/kodeverk/lisensmodell/systemid/1"
 						}
 					]
 				}
@@ -24,7 +24,7 @@
 				"_links": {
 					"self": [
 						{
-							"href": "https://beta.felleskomponent.no/eiendeler/kodeverk/lisensmodell/systemid/2"
+							"href": "https://beta.felleskomponent.no/ressurs/kodeverk/lisensmodell/systemid/2"
 						}
 					]
 				}
@@ -38,7 +38,7 @@
 				"_links": {
 					"self": [
 						{
-							"href": "https://beta.felleskomponent.no/eiendeler/kodeverk/lisensmodell/systemid/3"
+							"href": "https://beta.felleskomponent.no/ressurs/kodeverk/lisensmodell/systemid/3"
 						}
 					]
 				}
@@ -48,7 +48,7 @@
 	"_links": {
 		"self": [
 			{
-				"href": "https://beta.felleskomponent.no/eiendeler/kodeverk/lisensmodell/"
+				"href": "https://beta.felleskomponent.no/ressurs/kodeverk/lisensmodell/"
 			}
 		]
 	},

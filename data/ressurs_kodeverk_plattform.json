@@ -10,7 +10,7 @@
 				"_links": {
 					"self": [
 						{
-							"href": "https://beta.felleskomponent.no/eiendeler/kodeverk/plattform/systemid/1"
+							"href": "https://beta.felleskomponent.no/ressurs/kodeverk/plattform/systemid/1"
 						}
 					]
 				}
@@ -24,7 +24,7 @@
 				"_links": {
 					"self": [
 						{
-							"href": "https://beta.felleskomponent.no/eiendeler/kodeverk/plattform/systemid/2"
+							"href": "https://beta.felleskomponent.no/ressurs/kodeverk/plattform/systemid/2"
 						}
 					]
 				}
@@ -38,7 +38,7 @@
 				"_links": {
 					"self": [
 						{
-							"href": "https://beta.felleskomponent.no/eiendeler/kodeverk/plattform/systemid/3"
+							"href": "https://beta.felleskomponent.no/ressurs/kodeverk/plattform/systemid/3"
 						}
 					]
 				}
@@ -52,7 +52,7 @@
 				"_links": {
 					"self": [
 						{
-							"href": "https://beta.felleskomponent.no/eiendeler/kodeverk/plattform/systemid/4"
+							"href": "https://beta.felleskomponent.no/ressurs/kodeverk/plattform/systemid/4"
 						}
 					]
 				}
@@ -62,7 +62,7 @@
 	"_links": {
 		"self": [
 			{
-				"href": "https://beta.felleskomponent.no/eiendeler/kodeverk/plattform/"
+				"href": "https://beta.felleskomponent.no/ressurs/kodeverk/plattform/"
 			}
 		]
 	},

@@ -10,7 +10,7 @@
 				"_links": {
 					"self": [
 						{
-							"href": "https://beta.felleskomponent.no/eiendeler/kodeverk/applikasjonskategori/systemid/ped-prog"
+							"href": "https://beta.felleskomponent.no/ressurs/kodeverk/applikasjonskategori/systemid/ped-prog"
 						}
 					]
 				}
@@ -24,7 +24,7 @@
 				"_links": {
 					"self": [
 						{
-							"href": "https://beta.felleskomponent.no/eiendeler/kodeverk/applikasjonskategori/systemid/fagsys"
+							"href": "https://beta.felleskomponent.no/ressurs/kodeverk/applikasjonskategori/systemid/fagsys"
 						}
 					]
 				}
@@ -38,7 +38,7 @@
 				"_links": {
 					"self": [
 						{
-							"href": "https://beta.felleskomponent.no/eiendeler/kodeverk/applikasjonskategori/systemid/some"
+							"href": "https://beta.felleskomponent.no/ressurs/kodeverk/applikasjonskategori/systemid/some"
 						}
 					]
 				}
@@ -48,7 +48,7 @@
 	"_links": {
 		"self": [
 			{
-				"href": "https://beta.felleskomponent.no/eiendeler/kodeverk/applikasjonskategori/"
+				"href": "https://beta.felleskomponent.no/ressurs/kodeverk/applikasjonskategori/"
 			}
 		]
 	},

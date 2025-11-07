@@ -1,0 +1,124 @@
+{
+  "_embedded": {
+    "_entries": [
+      {
+        "systemId":{
+          "identifikatorverdi": "1"
+        },
+        "_links": {
+          "digitalEnhet": [
+            {
+              "href": "https://beta.felleskomponent.no/ressurs/datautstyr/digitalenhet/systemid/1"
+            }
+          ],
+          "enhetsgruppe": [
+            {
+              "href": "https://beta.felleskomponent.no/ressurs/kodeverk/enhetsgruppe/1"
+            }
+          ],
+          "self": [
+            {
+              "href": "https://beta.felleskomponent.no/ressurs/datautstyr/enhetsgruppemedlemskap/1"
+            }
+          ]
+        }
+      },
+      {
+        "systemId":{
+          "identifikatorverdi": "2"
+        },
+        "_links": {
+          "digitalEnhet": [
+            {
+              "href": "https://beta.felleskomponent.no/ressurs/datautstyr/digitalenhet/systemid/2"
+            }
+          ],
+          "enhetsgruppe": [
+            {
+              "href": "https://beta.felleskomponent.no/ressurs/kodeverk/enhetsgruppe/2"
+            }
+          ],
+          "self": [
+            {
+              "href": "https://beta.felleskomponent.no/ressurs/datautstyr/enhetsgruppemedlemskap/2"
+            }
+          ]
+        }
+      },
+      {
+        "systemId":{
+          "identifikatorverdi": "3"
+        },
+        "_links": {
+          "digitalEnhet": [
+            {
+              "href": "https://beta.felleskomponent.no/ressurs/datautstyr/digitalenhet/systemid/3"
+            }
+          ],
+          "enhetsgruppe": [
+            {
+              "href": "https://beta.felleskomponent.no/ressurs/kodeverk/enhetsgruppe/3"
+            }
+          ],
+          "self": [
+            {
+              "href": "https://beta.felleskomponent.no/ressurs/datautstyr/enhetsgruppemedlemskap/3"
+            }
+          ]
+        }
+      },
+      {
+        "systemId":{
+          "identifikatorverdi": "4"
+        },
+        "_links": {
+          "digitalEnhet": [
+            {
+              "href": "https://beta.felleskomponent.no/ressurs/datautstyr/digitalenhet/systemid/4"
+            }
+          ],
+          "enhetsgruppe": [
+            {
+              "href": "https://beta.felleskomponent.no/ressurs/kodeverk/enhetsgruppe/3"
+            }
+          ],
+          "self": [
+            {
+              "href": "https://beta.felleskomponent.no/ressurs/datautstyr/enhetsgruppemedlemskap/4"
+            }
+          ]
+        }
+      },
+      {
+        "systemId":{
+          "identifikatorverdi": "5"
+        },
+        "_links": {
+          "digitalEnhet": [
+            {
+              "href": "https://beta.felleskomponent.no/ressurs/datautstyr/digitalenhet/systemid/5"
+            }
+          ],
+          "enhetsgruppe": [
+            {
+              "href": "https://beta.felleskomponent.no/ressurs/kodeverk/enhetsgruppe/1"
+            }
+          ],
+          "self": [
+            {
+              "href": "https://beta.felleskomponent.no/ressurs/datautstyr/enhetsgruppemedlemskap/5"
+            }
+          ]
+        }
+      },
+    ]
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://beta.felleskomponent.no/ressurs/datautstyr/enhetsgruppemedlemskap"
+      }
+    ]
+  },
+  "total_items": 5
+}

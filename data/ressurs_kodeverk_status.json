@@ -1,0 +1,70 @@
+{
+	"_embedded": {
+		"_entries": [
+			{
+				"kode": "utgår",
+				"navn": "Utgått utstys",
+				"systemId": {
+					"identifikatorverdi": "1"
+				},
+				"_links": {
+					"self": [
+						{
+							"href": "https://beta.felleskomponent.no/ressurs/kodeverk/status/systemid/1"
+						}
+					]
+				}
+			},
+			{
+				"kode": "lager",
+				"navn": "Utstyr på lager",
+				"systemId": {
+					"identifikatorverdi": "2"
+				},
+				"_links": {
+					"self": [
+						{
+							"href": "https://beta.felleskomponent.no/ressurs/kodeverk/status/systemid/2"
+						}
+					]
+				}
+			},
+			{
+				"kode": "Utlevert",
+				"navn": "Utstyr utlevert til bruker",
+				"systemId": {
+					"identifikatorverdi": "3"
+				},
+				"_links": {
+					"self": [
+						{
+							"href": "https://beta.felleskomponent.no/ressurs/kodeverk/status/systemid/3"
+						}
+					]
+				}
+			},
+			{
+				"kode": "ibruk",
+				"navn": "Utstyr i bruk hos bruker",
+				"systemId": {
+					"identifikatorverdi": "4"
+				},
+				"_links": {
+					"self": [
+						{
+							"href": "https://beta.felleskomponent.no/ressurs/kodeverk/status/systemid/4"
+						}
+					]
+				}
+			}
+		]			
+	},
+	"_links": {
+		"self": [
+			{
+				"href": "https://beta.felleskomponent.no/ressurs/kodeverk/status/"
+			}
+		]
+	},
+	"total_items": 4
+}

@@ -1,0 +1,235 @@
+{
+  "_embedded": {
+    "_entries": [
+      {
+        "dataobjektId": {
+          "identifikatorverdi": "1"
+        },
+        "flerbrukerenhet": "false",
+        "navn": "Device 1",
+        "privateId": "true",
+        "serienummer": "123",
+        "systemId":{
+          "identifikatorverdi": "1"
+        },
+        "_links": {
+          "administrator": [
+            {
+              "href": "https://beta.felleskomponent.no/administrasjon/organisasjon/organisasjonselement/systemid/1"
+            }
+          ],
+          "eier": [
+            {
+              "href": "https://beta.felleskomponent.no/administrasjon/organisasjon/organisasjonselement/systemid/1"
+            }
+          ],
+          "status": [
+            {
+              "href": "https://beta.felleskomponent.no/ressurs/kodeverk/status/1"
+            }
+          ],
+          "enhetstype": [
+            {
+              "href": "https://beta.felleskomponent.no/ressurs/kodeverk/enhetstype/1"
+            }
+          ],
+          "plattform": [
+            {
+              "href": "https://beta.felleskomponent.no/ressurs/kodeverk/plattform/1"
+            }
+          ],
+          "self": [
+            {
+              "href": "https://beta.felleskomponent.no/ressurs/datautstyr/digitalenhet/1"
+            }
+          ]
+        }
+      },
+      {
+        "dataobjektId": {
+          "identifikatorverdi": "2"
+        },
+        "flerbrukerenhet": "false",
+        "navn": "Device 2",
+        "privateId": "true",
+        "serienummer": "1234",
+        "systemId":{
+          "identifikatorverdi": "1"
+        },
+        "_links": {
+          "administrator": [
+            {
+              "href": "https://beta.felleskomponent.no/administrasjon/organisasjon/organisasjonselement/systemid/1"
+            }
+          ],
+          "eier": [
+            {
+              "href": "https://beta.felleskomponent.no/administrasjon/organisasjon/organisasjonselement/systemid/1"
+            }
+          ],
+          "status": [
+            {
+              "href": "https://beta.felleskomponent.no/ressurs/kodeverk/status/2"
+            }
+          ],
+          "enhetstype": [
+            {
+              "href": "https://beta.felleskomponent.no/ressurs/kodeverk/enhetstype/2"
+            }
+          ],
+          "plattform": [
+            {
+              "href": "https://beta.felleskomponent.no/ressurs/kodeverk/plattform/2"
+            }
+          ],
+          "self": [
+            {
+              "href": "https://beta.felleskomponent.no/ressurs/datautstyr/digitalenhet/2"
+            }
+          ]
+        }
+      },
+      {
+        "dataobjektId": {
+          "identifikatorverdi": "3"
+        },
+        "flerbrukerenhet": "false",
+        "navn": "Device 3",
+        "privateId": "true",
+        "serienummer": "12345",
+        "systemId":{
+          "identifikatorverdi": "3"
+        },
+        "_links": {
+          "administrator": [
+            {
+              "href": "https://beta.felleskomponent.no/administrasjon/organisasjon/organisasjonselement/systemid/3"
+            }
+          ],
+          "eier": [
+            {
+              "href": "https://beta.felleskomponent.no/administrasjon/organisasjon/organisasjonselement/systemid/3"
+            }
+          ],
+          "status": [
+            {
+              "href": "https://beta.felleskomponent.no/ressurs/kodeverk/status/3"
+            }
+          ],
+          "enhetstype": [
+            {
+              "href": "https://beta.felleskomponent.no/ressurs/kodeverk/enhetstype/3"
+            }
+          ],
+          "plattform": [
+            {
+              "href": "https://beta.felleskomponent.no/ressurs/kodeverk/plattform/3"
+            }
+          ],
+          "self": [
+            {
+              "href": "https://beta.felleskomponent.no/ressurs/datautstyr/digitalenhet/3"
+            }
+          ]
+        }
+      },
+      {
+        "dataobjektId": {
+          "identifikatorverdi": "4"
+        },
+        "flerbrukerenhet": "false",
+        "navn": "Device 4",
+        "privateId": "true",
+        "serienummer": "123456",
+        "systemId":{
+          "identifikatorverdi": "4"
+        },
+        "_links": {
+          "administrator": [
+            {
+              "href": "https://beta.felleskomponent.no/administrasjon/organisasjon/organisasjonselement/systemid/4"
+            }
+          ],
+          "eier": [
+            {
+              "href": "https://beta.felleskomponent.no/administrasjon/organisasjon/organisasjonselement/systemid/4"
+            }
+          ],
+          "status": [
+            {
+              "href": "https://beta.felleskomponent.no/ressurs/kodeverk/status/4"
+            }
+          ],
+          "enhetstype": [
+            {
+              "href": "https://beta.felleskomponent.no/ressurs/kodeverk/enhetstype/1"
+            }
+          ],
+          "plattform": [
+            {
+              "href": "https://beta.felleskomponent.no/ressurs/kodeverk/plattform/1"
+            }
+          ],
+          "self": [
+            {
+              "href": "https://beta.felleskomponent.no/ressurs/datautstyr/digitalenhet/4"
+            }
+          ]
+        }
+      },
+      {
+        "dataobjektId": {
+          "identifikatorverdi": "5"
+        },
+        "flerbrukerenhet": "false",
+        "navn": "Device 5",
+        "privateId": "true",
+        "serienummer": "1234567",
+        "systemId":{
+          "identifikatorverdi": "5"
+        },
+        "_links": {
+          "administrator": [
+            {
+              "href": "https://beta.felleskomponent.no/administrasjon/organisasjon/organisasjonselement/systemid/1"
+            }
+          ],
+          "eier": [
+            {
+              "href": "https://beta.felleskomponent.no/administrasjon/organisasjon/organisasjonselement/systemid/1"
+            }
+          ],
+          "status": [
+            {
+              "href": "https://beta.felleskomponent.no/ressurs/kodeverk/status/1"
+            }
+          ],
+          "enhetstype": [
+            {
+              "href": "https://beta.felleskomponent.no/ressurs/kodeverk/enhetstype/1"
+            }
+          ],
+          "plattform": [
+            {
+              "href": "https://beta.felleskomponent.no/ressurs/kodeverk/plattform/1"
+            }
+          ],
+          "self": [
+            {
+              "href": "https://beta.felleskomponent.no/ressurs/datautstyr/digitalenhet/5"
+            }
+          ]
+        }
+      }
+
+    ]
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://beta.felleskomponent.no/ressurs/datautstyr/digitalenhet"
+      }
+    ]
+  },
+  "total_items": 5
+}
