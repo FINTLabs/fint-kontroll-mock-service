@@ -265,7 +265,7 @@
           "label": "",
           "headers": [],
           "bodyType": "FILE",
-          "filePath": "./data/eiendeler_kodeverk_brukertype.json",
+          "filePath": "./data/ressurs_kodeverk_brukertype.json",
           "databucketID": "",
           "sendFileAsBody": true,
           "rules": [],
@@ -292,7 +292,7 @@
           "label": "",
           "headers": [],
           "bodyType": "FILE",
-          "filePath": "./data/eiendeler_kodeverk_lisensmodell.json",
+          "filePath": "./data/ressurs_kodeverk_lisensmodell.json",
           "databucketID": "",
           "sendFileAsBody": true,
           "rules": [],
@@ -319,7 +319,7 @@
           "label": "",
           "headers": [],
           "bodyType": "FILE",
-          "filePath": "./data/eiendeler_kodeverk_applikasjonskategori.json",
+          "filePath": "./data/ressurs_kodeverk_applikasjonskategori.json",
           "databucketID": "",
           "sendFileAsBody": true,
           "rules": [],
@@ -336,7 +336,7 @@
       "uuid": "fd85fb56-2c77-11ee-be56-0242ac120002",
       "documentation": "",
       "method": "get",
-      "endpoint": "eiendeler/kodeverk/plattform",
+      "endpoint": "ressurs/kodeverk/plattform",
       "responses": [
         {
           "uuid": "040d6d4c-2c78-11ee-be56-0242ac120002",
@@ -346,7 +346,7 @@
           "label": "",
           "headers": [],
           "bodyType": "FILE",
-          "filePath": "./data/eiendeler_kodeverk_plattform.json",
+          "filePath": "./data/ressurs_kodeverk_plattform.json",
           "databucketID": "",
           "sendFileAsBody": true,
           "rules": [],
@@ -900,6 +900,60 @@
       "responseMode": null
     },
     {
+      "uuid": "975a0fd4-3259-4396-aadc-dc234d5a9b05",
+      "documentation": "",
+      "method": "get",
+      "endpoint": "ressurs/datautstyr/digitalenhet",
+      "responses": [
+        {
+          "uuid": "7fc68f07-839d-4c08-97bf-96976977e4fa",
+          "body": "{}",
+          "latency": 0,
+          "statusCode": 200,
+          "label": "",
+          "headers": [],
+          "bodyType": "FILE",
+          "filePath": "./data/ressurs_datautstyr_digitalenhet.json",
+          "databucketID": "",
+          "sendFileAsBody": true,
+          "rules": [],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": true
+        }
+      ],
+      "enabled": true,
+      "responseMode": null
+    },
+    {
+      "uuid": "5fe6030f-4f00-493a-bd70-83ffca1732e3",
+      "documentation": "",
+      "method": "get",
+      "endpoint": "ressurs/datautstyr/enhetsgruppe",
+      "responses": [
+        {
+          "uuid": "cb9a5094-332f-4842-a438-5bb48c2e2d43",
+          "body": "{}",
+          "latency": 0,
+          "statusCode": 200,
+          "label": "",
+          "headers": [],
+          "bodyType": "FILE",
+          "filePath": "./data/ressurs_datautstyr_enhetsgruppe.json",
+          "databucketID": "",
+          "sendFileAsBody": true,
+          "rules": [],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": true
+        }
+      ],
+      "enabled": true,
+      "responseMode": null
+    },
+    {
       "uuid": "cc3fd0ab-2ea8-477f-a4b3-85c7c956b13f",
       "documentation": "",
       "method": "get",
@@ -907,6 +961,60 @@
       "responses": [
         {
           "uuid": "e8bda1f9-b201-4d42-b080-1502e625f085",
+          "body": "{\r\n\t\"lastUpdated\": \"1675781741945\"\r\n}",
+          "latency": 0,
+          "statusCode": 200,
+          "label": "",
+          "headers": [],
+          "bodyType": "INLINE",
+          "filePath": "",
+          "databucketID": "",
+          "sendFileAsBody": true,
+          "rules": [],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": true
+        }
+      ],
+      "enabled": true,
+      "responseMode": null
+    },
+    {
+      "uuid": "0680514f-6b6c-4902-ba35-177134bb3eb9",
+      "documentation": "",
+      "method": "get",
+      "endpoint": "ressurs/datautstyr/enhetsgruppe/last-updated",
+      "responses": [
+        {
+          "uuid": "48716d87-4afb-452e-be5b-1ec19a378513",
+          "body": "{\r\n\t\"lastUpdated\": \"1675781741945\"\r\n}",
+          "latency": 0,
+          "statusCode": 200,
+          "label": "",
+          "headers": [],
+          "bodyType": "INLINE",
+          "filePath": "",
+          "databucketID": "",
+          "sendFileAsBody": true,
+          "rules": [],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": true
+        }
+      ],
+      "enabled": true,
+      "responseMode": null
+    },
+    {
+      "uuid": "b48e4fbb-a0e8-41fe-a02c-2d1d43f0ebc5",
+      "documentation": "",
+      "method": "get",
+      "endpoint": "ressurs/datautstyr/digitalenhet/last-updated",
+      "responses": [
+        {
+          "uuid": "8943455b-3927-423c-9e00-a4e385247f60",
           "body": "{\r\n\t\"lastUpdated\": \"1675781741945\"\r\n}",
           "latency": 0,
           "statusCode": 200,
@@ -1015,6 +1123,115 @@
       "responses": [
         {
           "uuid": "61931502-a58e-4ca9-aaea-3d5abe8397cc",
+          "body": "{\r\n\t\"lastUpdated\": \"1675781741945\"\r\n}",
+          "latency": 0,
+          "statusCode": 200,
+          "label": "",
+          "headers": [],
+          "bodyType": "INLINE",
+          "filePath": "",
+          "databucketID": "",
+          "sendFileAsBody": true,
+          "rules": [],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": true
+        }
+
+      ],
+      "enabled": true,
+      "responseMode": null
+    },
+    {
+      "uuid": "64621a01-2b6f-49eb-a5eb-7024fccb37ac",
+      "documentation": "",
+      "method": "get",
+      "endpoint": "ressurs/datautstyr/enhetsgruppemedlemskap",
+      "responses": [
+        {
+          "uuid": "30379b58-eadc-4bcd-bc63-62b093fb223b",
+          "body": "{}",
+          "latency": 0,
+          "statusCode": 200,
+          "label": "",
+          "headers": [],
+          "bodyType": "FILE",
+          "filePath": "./data/ressurs_datautstyr_enhetsgruppemedlemskap.json",
+          "databucketID": "",
+          "sendFileAsBody": true,
+          "rules": [],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": true
+        }
+      ],
+      "enabled": true,
+      "responseMode": null
+    },
+    {
+      "uuid": "580fd8fc-a1b0-4d7e-bf62-b44e789a6876",
+      "documentation": "",
+      "method": "get",
+      "endpoint": "ressurs/datautstyr/enhetsgruppemedlemskap/last-updated",
+      "responses": [
+        {
+          "uuid": "8baf8ccb-cd6c-4829-a0c3-d39909b67629",
+          "body": "{\r\n\t\"lastUpdated\": \"1675781741945\"\r\n}",
+          "latency": 0,
+          "statusCode": 200,
+          "label": "",
+          "headers": [],
+          "bodyType": "INLINE",
+          "filePath": "",
+          "databucketID": "",
+          "sendFileAsBody": true,
+          "rules": [],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": true
+        }
+      ],
+      "enabled": true,
+      "responseMode": null
+    },
+    {
+      "uuid": "3eb77e9e-9ed5-41dc-80b2-89e706d9a14a",
+      "documentation": "",
+      "method": "get",
+      "endpoint": "ressurs/kodeverk/status",
+      "responses": [
+        {
+          "uuid": "fb61b8b4-9bd6-4e3e-8d51-af52dd4f30c1",
+          "body": "{}",
+          "latency": 0,
+          "statusCode": 200,
+          "label": "",
+          "headers": [],
+          "bodyType": "FILE",
+          "filePath": "./data/ressurs_kodeverk_status.json",
+          "databucketID": "",
+          "sendFileAsBody": true,
+          "rules": [],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": true
+        }
+      ],
+      "enabled": true,
+      "responseMode": null
+    },
+    {
+      "uuid": "9e323927-6573-4341-a4c6-da7cdc4a2c51",
+      "documentation": "",
+      "method": "get",
+      "endpoint": "ressurs/kodeverk/status/last-updated",
+      "responses": [
+        {
+          "uuid": "aa8c07ed-f1df-4d28-a771-56117d4c1f1e",
           "body": "{\r\n\t\"lastUpdated\": \"1675781741945\"\r\n}",
           "latency": 0,
           "statusCode": 200,
@@ -1188,6 +1405,42 @@
     {
       "type": "route",
       "uuid": "d85e279c-453d-4f29-99f1-9e2fff967c53"
+    },
+    {
+      "type": "route",
+      "uuid": "975a0fd4-3259-4396-aadc-dc234d5a9b05"
+    },
+    {
+      "type": "route",
+      "uuid": "b48e4fbb-a0e8-41fe-a02c-2d1d43f0ebc5"
+    },
+    {
+      "type": "route",
+      "uuid": "64621a01-2b6f-49eb-a5eb-7024fccb37ac"
+    },
+    {
+      "type": "route",
+      "uuid": "580fd8fc-a1b0-4d7e-bf62-b44e789a6876"
+    },
+    {
+      "type": "route",
+      "uuid": "0680514f-6b6c-4902-ba35-177134bb3eb9"
+    },
+    {
+      "type": "route",
+      "uuid": "0680514f-6b6c-4902-ba35-177134bb3eb9"
+    },
+    {
+      "type": "route",
+      "uuid": "3eb77e9e-9ed5-41dc-80b2-89e706d9a14a"
+    },
+    {
+      "type": "route",
+      "uuid": "9e323927-6573-4341-a4c6-da7cdc4a2c51"
+    },
+    {
+      "type": "route",
+      "uuid": "5fe6030f-4f00-493a-bd70-83ffca1732e3"
     }
   ],
   "proxyMode": false,

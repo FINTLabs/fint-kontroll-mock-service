@@ -8,7 +8,7 @@
         "_links": {
           "digitalEnhet": [
             {
-              "href": "https://beta.felleskomponent.no/ressurs/datautstyr/digitalenhet/systemid/1"
+              "href": "https://beta.felleskomponent.no/ressurs/datautstyr/digitalenhet/systemid/120ecffb-d568-4139-a0c3-d76352747c65"
             }
           ],
           "enhetsgruppe": [
@@ -30,7 +30,7 @@
         "_links": {
           "digitalEnhet": [
             {
-              "href": "https://beta.felleskomponent.no/ressurs/datautstyr/digitalenhet/systemid/2"
+              "href": "https://beta.felleskomponent.no/ressurs/datautstyr/digitalenhet/systemid/521e4740-0bbf-4fe7-ad4f-f74928530d6c"
             }
           ],
           "enhetsgruppe": [
@@ -52,7 +52,7 @@
         "_links": {
           "digitalEnhet": [
             {
-              "href": "https://beta.felleskomponent.no/ressurs/datautstyr/digitalenhet/systemid/3"
+              "href": "https://beta.felleskomponent.no/ressurs/datautstyr/digitalenhet/systemid/a10face5-80d7-4244-ac03-50e34b0706ea"
             }
           ],
           "enhetsgruppe": [
@@ -74,7 +74,7 @@
         "_links": {
           "digitalEnhet": [
             {
-              "href": "https://beta.felleskomponent.no/ressurs/datautstyr/digitalenhet/systemid/4"
+              "href": "https://beta.felleskomponent.no/ressurs/datautstyr/digitalenhet/systemid/a563e851-24b7-473c-bd7f-8a0d4cad0a5a"
             }
           ],
           "enhetsgruppe": [
@@ -96,7 +96,7 @@
         "_links": {
           "digitalEnhet": [
             {
-              "href": "https://beta.felleskomponent.no/ressurs/datautstyr/digitalenhet/systemid/5"
+              "href": "https://beta.felleskomponent.no/ressurs/datautstyr/digitalenhet/systemid/b4dd503a-8fd6-4848-976b-1110fdb2adb1"
             }
           ],
           "enhetsgruppe": [
