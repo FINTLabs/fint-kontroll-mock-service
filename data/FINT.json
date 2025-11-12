@@ -954,6 +954,33 @@
       "responseMode": null
     },
     {
+      "uuid": "cb8fc503-4e10-4357-b08c-76c06db67c22",
+      "documentation": "",
+      "method": "get",
+      "endpoint": "ressurs/kodeverk/enhetstype",
+      "responses": [
+        {
+          "uuid": "cb9a5094-332f-4842-a438-5bb48c2e2d43",
+          "body": "{}",
+          "latency": 0,
+          "statusCode": 200,
+          "label": "",
+          "headers": [],
+          "bodyType": "FILE",
+          "filePath": "./data/ressurs_kodeverk_enhetstype.json",
+          "databucketID": "",
+          "sendFileAsBody": true,
+          "rules": [],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": true
+        }
+      ],
+      "enabled": true,
+      "responseMode": null
+    },
+    {
       "uuid": "cc3fd0ab-2ea8-477f-a4b3-85c7c956b13f",
       "documentation": "",
       "method": "get",
@@ -988,6 +1015,33 @@
       "responses": [
         {
           "uuid": "48716d87-4afb-452e-be5b-1ec19a378513",
+          "body": "{\r\n\t\"lastUpdated\": \"1675781741945\"\r\n}",
+          "latency": 0,
+          "statusCode": 200,
+          "label": "",
+          "headers": [],
+          "bodyType": "INLINE",
+          "filePath": "",
+          "databucketID": "",
+          "sendFileAsBody": true,
+          "rules": [],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": true
+        }
+      ],
+      "enabled": true,
+      "responseMode": null
+    },
+    {
+      "uuid": "fc392e6e-c027-4d94-8cfa-5ef117742df1",
+      "documentation": "",
+      "method": "get",
+      "endpoint": "ressurs/kodeverk/enhetstype/last-updated",
+      "responses": [
+        {
+          "uuid": "f99929f5-0182-43af-89cf-a7f65443ee32",
           "body": "{\r\n\t\"lastUpdated\": \"1675781741945\"\r\n}",
           "latency": 0,
           "statusCode": 200,
@@ -1441,6 +1495,14 @@
     {
       "type": "route",
       "uuid": "5fe6030f-4f00-493a-bd70-83ffca1732e3"
+    },
+    {
+      "type": "route",
+      "uuid": "cb8fc503-4e10-4357-b08c-76c06db67c22"
+    },
+    {
+      "type": "route",
+      "uuid": "fc392e6e-c027-4d94-8cfa-5ef117742df1"
     }
   ],
   "proxyMode": false,
