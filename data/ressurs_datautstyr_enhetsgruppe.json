@@ -14,17 +14,17 @@
           ],
           "enhetstype": [
             {
-              "href": "https://beta.felleskomponent.no/ressurs/kodeverk/enhetstype/1"
+              "href": "https://beta.felleskomponent.no/ressurs/kodeverk/enhetstype/systemid/1"
             }
           ],
           "plattform": [
             {
-              "href": "https://beta.felleskomponent.no/ressurs/kodeverk/plattform/1"
+              "href": "https://beta.felleskomponent.no/ressurs/kodeverk/plattform/systemid/1"
             }
           ],
           "self": [
             {
-              "href": "https://beta.felleskomponent.no/ressurs/datautstyr/enhetsgruppe/1"
+              "href": "https://beta.felleskomponent.no/ressurs/datautstyr/enhetsgruppe/systemid/1"
             }
           ]
         }
@@ -42,17 +42,17 @@
           ],
           "enhetstype": [
             {
-              "href": "https://beta.felleskomponent.no/ressurs/kodeverk/enhetstype/2"
+              "href": "https://beta.felleskomponent.no/ressurs/kodeverk/enhetstype/systemid/2"
             }
           ],
           "plattform": [
             {
-              "href": "https://beta.felleskomponent.no/ressurs/kodeverk/plattform/1"
+              "href": "https://beta.felleskomponent.no/ressurs/kodeverk/plattform/systemid/1"
             }
           ],
           "self": [
             {
-              "href": "https://beta.felleskomponent.no/ressurs/datautstyr/enhetsgruppe/2"
+              "href": "https://beta.felleskomponent.no/ressurs/datautstyr/enhetsgruppe/systemid/2"
             }
           ]
         }
@@ -70,17 +70,17 @@
           ],
           "enhetstype": [
             {
-              "href": "https://beta.felleskomponent.no/ressurs/kodeverk/enhetstype/3"
+              "href": "https://beta.felleskomponent.no/ressurs/kodeverk/enhetstype/systemid/3"
             }
           ],
           "plattform": [
             {
-              "href": "https://beta.felleskomponent.no/ressurs/kodeverk/plattform/3"
+              "href": "https://beta.felleskomponent.no/ressurs/kodeverk/plattform/systemid/3"
             }
           ],
           "self": [
             {
-              "href": "https://beta.felleskomponent.no/ressurs/datautstyr/enhetsgruppe/3"
+              "href": "https://beta.felleskomponent.no/ressurs/datautstyr/enhetsgruppe/systemid/3"
             }
           ]
         }
@@ -97,17 +97,17 @@
           ],
           "enhetstype": [
             {
-              "href": "https://beta.felleskomponent.no/ressurs/kodeverk/enhetstype/2"
+              "href": "https://beta.felleskomponent.no/ressurs/kodeverk/enhetstype/systemid/2"
             }
           ],
           "plattform": [
             {
-              "href": "https://beta.felleskomponent.no/ressurs/kodeverk/plattform/1"
+              "href": "https://beta.felleskomponent.no/ressurs/kodeverk/plattform/systemid/1"
             }
           ],
           "self": [
             {
-              "href": "https://beta.felleskomponent.no/ressurs/datautstyr/enhetsgruppe/4"
+              "href": "https://beta.felleskomponent.no/ressurs/datautstyr/enhetsgruppe/systemid/4"
             }
           ]
         }
@@ -125,17 +125,17 @@
           ],
           "enhetstype": [
             {
-              "href": "https://beta.felleskomponent.no/ressurs/kodeverk/enhetstype/1"
+              "href": "https://beta.felleskomponent.no/ressurs/kodeverk/enhetstype/systemid/1"
             }
           ],
           "plattform": [
             {
-              "href": "https://beta.felleskomponent.no/ressurs/kodeverk/plattform/1"
+              "href": "https://beta.felleskomponent.no/ressurs/kodeverk/plattform/systemid/1"
             }
           ],
           "self": [
             {
-              "href": "https://beta.felleskomponent.no/ressurs/datautstyr/enhetsgruppe/5"
+              "href": "https://beta.felleskomponent.no/ressurs/datautstyr/enhetsgruppe/systemid/5"
             }
           ]
         }

@@ -13,12 +13,12 @@
           ],
           "enhetsgruppe": [
             {
-              "href": "https://beta.felleskomponent.no/ressurs/kodeverk/enhetsgruppe/1"
+              "href": "https://beta.felleskomponent.no/ressurs/kodeverk/enhetsgruppe/systemid/1"
             }
           ],
           "self": [
             {
-              "href": "https://beta.felleskomponent.no/ressurs/datautstyr/enhetsgruppemedlemskap/1"
+              "href": "https://beta.felleskomponent.no/ressurs/datautstyr/enhetsgruppemedlemskap/systemid/1"
             }
           ]
         }
@@ -35,12 +35,12 @@
           ],
           "enhetsgruppe": [
             {
-              "href": "https://beta.felleskomponent.no/ressurs/kodeverk/enhetsgruppe/2"
+              "href": "https://beta.felleskomponent.no/ressurs/kodeverk/enhetsgruppe/systemid/2"
             }
           ],
           "self": [
             {
-              "href": "https://beta.felleskomponent.no/ressurs/datautstyr/enhetsgruppemedlemskap/2"
+              "href": "https://beta.felleskomponent.no/ressurs/datautstyr/enhetsgruppemedlemskap/systemid/2"
             }
           ]
         }
@@ -57,12 +57,12 @@
           ],
           "enhetsgruppe": [
             {
-              "href": "https://beta.felleskomponent.no/ressurs/kodeverk/enhetsgruppe/3"
+              "href": "https://beta.felleskomponent.no/ressurs/kodeverk/enhetsgruppe/systemid/3"
             }
           ],
           "self": [
             {
-              "href": "https://beta.felleskomponent.no/ressurs/datautstyr/enhetsgruppemedlemskap/3"
+              "href": "https://beta.felleskomponent.no/ressurs/datautstyr/enhetsgruppemedlemskap/systemid/3"
             }
           ]
         }
@@ -79,12 +79,12 @@
           ],
           "enhetsgruppe": [
             {
-              "href": "https://beta.felleskomponent.no/ressurs/kodeverk/enhetsgruppe/3"
+              "href": "https://beta.felleskomponent.no/ressurs/kodeverk/enhetsgruppe/systemid/3"
             }
           ],
           "self": [
             {
-              "href": "https://beta.felleskomponent.no/ressurs/datautstyr/enhetsgruppemedlemskap/4"
+              "href": "https://beta.felleskomponent.no/ressurs/datautstyr/enhetsgruppemedlemskap/systemid/4"
             }
           ]
         }
@@ -101,16 +101,16 @@
           ],
           "enhetsgruppe": [
             {
-              "href": "https://beta.felleskomponent.no/ressurs/kodeverk/enhetsgruppe/1"
+              "href": "https://beta.felleskomponent.no/ressurs/kodeverk/enhetsgruppe/systemid/1"
             }
           ],
           "self": [
             {
-              "href": "https://beta.felleskomponent.no/ressurs/datautstyr/enhetsgruppemedlemskap/5"
+              "href": "https://beta.felleskomponent.no/ressurs/datautstyr/enhetsgruppemedlemskap/systemid/5"
             }
           ]
         }
-      },
+      }
     ]
   },
   "_links": {
