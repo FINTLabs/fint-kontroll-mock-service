@@ -40,7 +40,7 @@
           ],
           "self": [
             {
-              "href": "https://beta.felleskomponent.no/ressurs/datautstyr/digitalenhet/systemid/120ecffb-d568-4139-a0c3-d76352747c65"
+              "href": "https://beta.felleskomponent.no/ressurs/datautstyr/digitalenhet/systemid/1"
             }
           ]
         }
@@ -54,7 +54,7 @@
         "privateId": "true",
         "serienummer": "1234",
         "systemId":{
-          "identifikatorverdi": "1"
+          "identifikatorverdi": "2"
         },
         "_links": {
           "administrator": [
@@ -84,7 +84,7 @@
           ],
           "self": [
             {
-              "href": "https://beta.felleskomponent.no/ressurs/datautstyr/digitalenhet/systemid/521e4740-0bbf-4fe7-ad4f-f74928530d6c"
+              "href": "https://beta.felleskomponent.no/ressurs/datautstyr/digitalenhet/systemid/2"
             }
           ]
         }
@@ -128,21 +128,21 @@
           ],
           "self": [
             {
-              "href": "https://beta.felleskomponent.no/ressurs/datautstyr/digitalenhet/systemid/a10face5-80d7-4244-ac03-50e34b0706ea"
+              "href": "https://beta.felleskomponent.no/ressurs/datautstyr/digitalenhet/systemid/3"
             }
           ]
         }
       },
       {
         "dataobjektId": {
-          "identifikatorverdi": "4"
+          "identifikatorverdi": "a563e851-24b7-473c-bd7f-8a0d4cad0a5a"
         },
         "flerbrukerenhet": "false",
         "navn": "Dummy-fbd987c9",
         "privateId": "true",
         "serienummer": "123456",
         "systemId":{
-          "identifikatorverdi": "a563e851-24b7-473c-bd7f-8a0d4cad0a5a"
+          "identifikatorverdi": "4"
         },
         "_links": {
           "administrator": [
@@ -172,21 +172,21 @@
           ],
           "self": [
             {
-              "href": "https://beta.felleskomponent.no/ressurs/datautstyr/digitalenhet/systemid/a563e851-24b7-473c-bd7f-8a0d4cad0a5a"
+              "href": "https://beta.felleskomponent.no/ressurs/datautstyr/digitalenhet/systemid/4"
             }
           ]
         }
       },
       {
         "dataobjektId": {
-          "identifikatorverdi": "5"
+          "identifikatorverdi": "b4dd503a-8fd6-4848-976b-1110fdb2adb1"
         },
         "flerbrukerenhet": "false",
         "navn": "Dummy-e46a8696",
         "privateId": "true",
         "serienummer": "1234567",
         "systemId":{
-          "identifikatorverdi": "b4dd503a-8fd6-4848-976b-1110fdb2adb1"
+          "identifikatorverdi": "5"
         },
         "_links": {
           "administrator": [
@@ -216,7 +216,7 @@
           ],
           "self": [
             {
-              "href": "https://beta.felleskomponent.no/ressurs/datautstyr/digitalenhet/systemid/b4dd503a-8fd6-4848-976b-1110fdb2adb1"
+              "href": "https://beta.felleskomponent.no/ressurs/datautstyr/digitalenhet/systemid/5"
             }
           ]
         }
