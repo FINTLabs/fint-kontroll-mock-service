@@ -3,10 +3,10 @@
     "_entries": [
       {
         "dataobjektId": {
-          "identifikatorverdi": "120ecffb-d568-4139-a0c3-d76352747c65"
+          "identifikatorverdi": "0456766d-bc05-4d8c-9005-251a7674db11"
         },
         "flerbrukerenhet": "false",
-        "navn": "Dummy-6d82c23c",
+        "navn": "Dummy-04cf92a9",
         "privateId": "true",
         "serienummer": "123",
         "systemId":{
@@ -47,10 +47,10 @@
       },
       {
         "dataobjektId": {
-          "identifikatorverdi": "521e4740-0bbf-4fe7-ad4f-f74928530d6c"
+          "identifikatorverdi": "0afc842f-63d5-45da-80d9-88918096e786"
         },
         "flerbrukerenhet": "false",
-        "navn": "Dummy-04cf92a9",
+        "navn": "Dummy-7ea7928e",
         "privateId": "true",
         "serienummer": "1234",
         "systemId":{
@@ -91,10 +91,10 @@
       },
       {
         "dataobjektId": {
-          "identifikatorverdi": "a10face5-80d7-4244-ac03-50e34b0706ea"
+          "identifikatorverdi": "26b1cd40-8fa7-41fa-9291-adde6787a275"
         },
         "flerbrukerenhet": "false",
-        "navn": "Dummy-359ad767",
+        "navn": "Dummy-04da2b15",
         "privateId": "true",
         "serienummer": "12345",
         "systemId":{
@@ -135,10 +135,10 @@
       },
       {
         "dataobjektId": {
-          "identifikatorverdi": "a563e851-24b7-473c-bd7f-8a0d4cad0a5a"
+          "identifikatorverdi": "3db31453-1c37-48bb-9d1c-19095b5f1c78"
         },
         "flerbrukerenhet": "false",
-        "navn": "Dummy-fbd987c9",
+        "navn": "Dummy-359ad767",
         "privateId": "true",
         "serienummer": "123456",
         "systemId":{
@@ -179,7 +179,7 @@
       },
       {
         "dataobjektId": {
-          "identifikatorverdi": "b4dd503a-8fd6-4848-976b-1110fdb2adb1"
+          "identifikatorverdi": "3f46000d-9e4b-49da-aa0d-f5b15bd2c11a"
         },
         "flerbrukerenhet": "false",
         "navn": "Dummy-e46a8696",
