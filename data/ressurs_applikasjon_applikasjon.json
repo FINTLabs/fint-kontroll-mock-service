@@ -4,6 +4,38 @@
     "_entries":[
       {
         "systemId": {
+          "identifikatorverdi": "c8b661f7254241d8b29fb4537"
+        },
+        "applikasjonsnavn": "Mr Potato Head",
+        "beskrivelse": "Mr Potato Head spill for alle ansatte",
+        "_links": {
+          "lisens": [
+            {
+              "href": "https://beta.felleskomponent.no/eiendeler/applikasjon/lisens/systemid/f887f35a0fab01f3e3e2c5d4"
+            }
+          ],
+          "applikasjonskategori": [
+            {
+              "href": "https://beta.felleskomponent.no/eiendeler/kodeverk/applikasjonskategori/systemid/ped-prog"
+            }
+          ],
+          "stottetplattform": [
+            {
+              "href": "https://beta.felleskomponent.no/eiendeler/kodeverk/plattform/systemid/1"
+            },
+            {
+              "href": "https://beta.felleskomponent.no/eiendeler/kodeverk/plattform/systemid/2"
+            }
+          ],
+          "self": [
+            {
+              "href": "https://beta.felleskomponent.no/eiendeler/applikasjon/applikasjon/systemid/c8b661f7254241d8b29fb4537"
+            }
+          ]
+        }
+      },
+      {
+        "systemId": {
           "identifikatorverdi": "1ea37c4ca39cfd02450e7757"
         },
         "applikasjonsnavn": "Adobe Creative Cloud All Apps for K-12",
@@ -78,5 +110,5 @@
 			}
 		]
 	},
-  "total_items":2
+  "total_items":3
 }

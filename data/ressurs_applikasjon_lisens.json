@@ -4,6 +4,52 @@
     "_entries":[
       {
         "systemId": {
+          "identifikatorverdi": "f887f35a0fab01f3e3e2c5d4"
+        },
+        "lisensnavn": "Mr Potato Head All free",
+        "lisensantall": 1001,
+        "beskrivelse": "Mr Potato Head fri bruk for alle",
+        "_links": {
+          "applikasjon": [
+            {
+              "href": "https://beta.felleskomponent.no/eiendeler/applikasjon/applikasjon/systemId/c8b661f7254241d8b29fb4537"
+            }
+          ],
+          "lisensmodell":[
+            {
+              "href": "https://beta.felleskomponent.no/eiendeler/kodeverk/lisensmodell/systemId/1"
+            }
+          ],
+          "tilgjengeligforbrukertype":[
+            {
+              "href": "https://beta.felleskomponent.no/eiendeler/kodeverk/brukertype/systemId/1"
+            },
+            {
+              "href": "https://beta.felleskomponent.no/eiendeler/kodeverk/brukertype/systemId/3"
+            },
+            {
+              "href": "https://beta.felleskomponent.no/eiendeler/kodeverk/brukertype/systemid/2"
+            }
+          ],
+          "lisenseier": [
+            {
+              "href": "https://beta.felleskomponent.no/administrasjon/organisasjon/organisasjonselement/organisasjonsId/1"
+            }
+          ],
+          "lisenstilgang":[
+            {
+              "href": "https://beta.felleskomponent.no/eiendeler/applikasjon/lisenstilgang/systemId/4711"
+            }
+          ],
+          "self": [
+            {
+              "href": "https://beta.felleskomponent.no/eiendeler/applikasjon/lisens/systemId/f887f35a0fab01f3e3e2c5d4"
+            }
+          ]
+        }
+      },
+      {
+        "systemId": {
           "identifikatorverdi": "f887f35a0fab01f3e3e2c5c2"
         },
         "lisensnavn": "Creative Cloud All Apps for K-12 - Shared Device",
@@ -149,5 +195,5 @@
 			}
 		]
 	},
-  "total_items":2
+  "total_items":4
 }

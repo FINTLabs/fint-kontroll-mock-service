@@ -103,12 +103,12 @@
         "_links": {
           "administrator": [
             {
-              "href": "https://beta.felleskomponent.no/administrasjon/organisasjon/organisasjonselement/systemid/3"
+              "href": "https://beta.felleskomponent.no/administrasjon/organisasjon/organisasjonselement/systemid/5"
             }
           ],
           "eier": [
             {
-              "href": "https://beta.felleskomponent.no/administrasjon/organisasjon/organisasjonselement/systemid/3"
+              "href": "https://beta.felleskomponent.no/administrasjon/organisasjon/organisasjonselement/systemid/1"
             }
           ],
           "status": [
@@ -147,12 +147,12 @@
         "_links": {
           "administrator": [
             {
-              "href": "https://beta.felleskomponent.no/administrasjon/organisasjon/organisasjonselement/systemid/4"
+              "href": "https://beta.felleskomponent.no/administrasjon/organisasjon/organisasjonselement/systemid/6"
             }
           ],
           "eier": [
             {
-              "href": "https://beta.felleskomponent.no/administrasjon/organisasjon/organisasjonselement/systemid/4"
+              "href": "https://beta.felleskomponent.no/administrasjon/organisasjon/organisasjonselement/systemid/1"
             }
           ],
           "status": [
