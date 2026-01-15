@@ -4,6 +4,29 @@
     "_entries":[
       {
         "systemId": {
+          "identifikatorverdi": "4711"
+        },
+        "lisensantall": 1000,
+        "_links": {
+          "lisenskonsument": [
+            {
+              "href": "https://beta.felleskomponent.no/administrasjon/organisasjon/organisasjonselement/organisasjonsId/1"
+            }
+          ],
+          "lisens":[
+            {
+              "href": "https://beta.felleskomponent.no/eiendeler/applikasjon/lisens/systemid/f887f35a0fab01f3e3e2c5d4"
+            }
+          ],
+          "self": [
+            {
+              "href": "https://beta.felleskomponent.no/eiendeler/applikasjon/lisenstilgang/systemid/4711"
+            }
+          ]
+        }
+      },
+      {
+        "systemId": {
           "identifikatorverdi": "12345"
         },
         "lisensantall": 25,
@@ -126,5 +149,5 @@
 			}
 		]
 	},
-  "total_items":5
+  "total_items":6
 }

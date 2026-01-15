@@ -37,7 +37,7 @@
         "_links": {
           "organisasjonsenhet": [
             {
-              "href": "https://beta.felleskomponent.no/administrasjon/organisasjon/organisasjonselement/systemid/2"
+              "href": "https://beta.felleskomponent.no/administrasjon/organisasjon/organisasjonselement/systemid/5"
             }
           ],
           "enhetstype": [
@@ -65,7 +65,7 @@
         "_links": {
           "organisasjonsenhet": [
             {
-              "href": "https://beta.felleskomponent.no/administrasjon/organisasjon/organisasjonselement/systemid/3"
+              "href": "https://beta.felleskomponent.no/administrasjon/organisasjon/organisasjonselement/systemid/27"
             }
           ],
           "enhetstype": [
@@ -92,7 +92,7 @@
         "_links": {
           "organisasjonsenhet": [
             {
-              "href": "https://beta.felleskomponent.no/administrasjon/organisasjon/organisasjonselement/systemid/3"
+              "href": "https://beta.felleskomponent.no/administrasjon/organisasjon/organisasjonselement/systemid/27"
             }
           ],
           "enhetstype": [
