@@ -1,0 +1,88 @@
+{
+	"_embedded": {
+		"_entries": [
+			{
+				"gyldighetsperiode": {
+					"slutt": "2026-01-18T00:00:00Z",
+					"start": "2025-08-01T00:00:00Z"
+				},
+				"kode": "H1",
+				"navn": "H1",
+				"systemId": {
+					"identifikatorverdi": "1"
+				},
+				"_links": {
+					"self": [
+						{
+							"href": "https://beta.felleskomponent.no/utdanning/kodeverk/termin/systemid/1"
+						}
+					]
+				}
+			},
+			{
+				"gyldighetsperiode": {
+					"slutt": "2026-07-31T00:00:00Z",
+					"start": "2026-01-19T00:00:00Z"
+				},
+				"kode": "H2",
+				"navn": "H2",
+				"systemId": {
+					"identifikatorverdi": "2"
+				},
+				"_links": {
+					"self": [
+						{
+							"href": "https://beta.felleskomponent.no/utdanning/kodeverk/termin/systemid/2"
+						}
+					]
+				}
+			},
+			{
+				"gyldighetsperiode": {
+					"slutt": "2026-07-31T00:00:00Z",
+					"start": "2026-01-19T00:00:00Z"
+				},
+				"kode": "H2",
+				"navn": "H2",
+				"systemId": {
+					"identifikatorverdi": "3"
+				},
+				"_links": {
+					"self": [
+						{
+							"href": "https://beta.felleskomponent.no/utdanning/kodeverk/termin/systemid/3"
+						}
+					]
+				}
+			},
+			{
+				"gyldighetsperiode": {
+					"slutt": "2026-01-18T00:00:00Z",
+					"start": "2025-08-01T00:00:00Z"
+				},
+				"kode": "H1",
+				"navn": "H1",
+				"systemId": {
+					"identifikatorverdi": "4"
+				},
+				"_links": {
+					"self": [
+						{
+							"href": "https://beta.felleskomponent.no/utdanning/kodeverk/termin/systemid/4"
+						}
+					]
+				}
+			}
+		]
+	},
+	"_links": {
+		"self": [
+			{
+				"href": "https://beta.felleskomponent.no/utdanning/kodeverk/termin/"
+			}
+		]
+	},
+	"total_items": 4,
+	"offset": 0,
+	"size": 4
+}
