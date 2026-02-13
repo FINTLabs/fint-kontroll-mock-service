@@ -9,6 +9,114 @@
   "folders": [],
   "routes": [
     {
+      "uuid": "9944fbb8-9296-4200-8963-4370da0bd73e",
+      "documentation": "",
+      "method": "get",
+      "endpoint": "utdanning/kodeverk/skolear",
+      "responses": [
+        {
+          "uuid": "d0525482-2a2a-410c-a949-5dab79d7cc9c",
+          "body": "{}",
+          "latency": 0,
+          "statusCode": 200,
+          "label": "",
+          "headers": [],
+          "bodyType": "FILE",
+          "filePath": "./data/utdanning_kodeverk_skolear.json",
+          "databucketID": "",
+          "sendFileAsBody": true,
+          "rules": [],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": true
+        }
+      ],
+      "enabled":true,
+      "responseMode": null
+    },
+    {
+      "uuid": "5d7b358b-bf4e-4de4-934d-8373b8981ce2",
+      "documentation": "",
+      "method": "get",
+      "endpoint": "utdanning/kodeverk/skolear/last-updated",
+      "responses": [
+        {
+          "uuid": "8d7a2c09-1265-4185-a203-a618dfe15e7c",
+          "body": "{\r\n\t\"lastUpdated\": \"1675781741945\"\r\n}",
+          "latency": 0,
+          "statusCode": 200,
+          "label": "",
+          "headers": [],
+          "bodyType": "INLINE",
+          "filePath": "",
+          "databucketID": "",
+          "sendFileAsBody": false,
+          "rules": [],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": true
+        }
+      ],
+      "enabled":true,
+      "responseMode": null
+    },
+    {
+      "uuid": "f2d4d525-4086-4a2a-98f3-dff84b9b0410",
+      "documentation": "",
+      "method": "get",
+      "endpoint": "utdanning/kodeverk/termin",
+      "responses": [
+        {
+          "uuid": "61804847-e754-4b35-bbf3-529685c66e1c",
+          "body": "{}",
+          "latency": 0,
+          "statusCode": 200,
+          "label": "",
+          "headers": [],
+          "bodyType": "FILE",
+          "filePath": "./data/utdanning_kodeverk_termin.json",
+          "databucketID": "",
+          "sendFileAsBody": true,
+          "rules": [],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": true
+        }
+      ],
+      "enabled":true,
+      "responseMode": null
+    },
+    {
+      "uuid": "4c788277-6ead-45ad-a209-451316cba011",
+      "documentation": "",
+      "method": "get",
+      "endpoint": "utdanning/kodeverk/termin/last-updated",
+      "responses": [
+        {
+          "uuid": "30b6175c-4560-4f7e-bba0-27194a37e817",
+          "body": "{\r\n\t\"lastUpdated\": \"1675781741945\"\r\n}",
+          "latency": 0,
+          "statusCode": 200,
+          "label": "",
+          "headers": [],
+          "bodyType": "INLINE",
+          "filePath": "",
+          "databucketID": "",
+          "sendFileAsBody": false,
+          "rules": [],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": true
+        }
+      ],
+      "enabled":true,
+      "responseMode": null
+    },
+    {
       "uuid": "3b5afeec-d58a-4040-ba59-b062b7997ea2",
       "documentation": "",
       "method": "get",
@@ -1307,6 +1415,22 @@
     }
   ],
   "rootChildren": [
+    {
+      "type": "route",
+      "uuid": "9944fbb8-9296-4200-8963-4370da0bd73e"
+    },
+    {
+      "type": "route",
+      "uuid": "5d7b358b-bf4e-4de4-934d-8373b8981ce2"
+    },
+    {
+      "type": "route",
+      "uuid": "f2d4d525-4086-4a2a-98f3-dff84b9b0410"
+    },
+    {
+      "type": "route",
+      "uuid": "4c788277-6ead-45ad-a209-451316cba011"
+    },
     {
       "type": "route",
       "uuid": "a08cc7b8-2c77-11ee-be56-0242ac120002"
