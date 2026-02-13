@@ -1,0 +1,52 @@
+{
+	"_embedded": {
+		"_entries": [
+			{
+				"gyldighetsperiode": {
+					"slutt": "2026-07-31T00:00:00Z",
+					"start": "2025-08-01T00:00:00Z"
+				},
+				"kode": "20252026",
+				"navn": "20252026",
+				"systemId": {
+					"identifikatorverdi": "10"
+				},
+				"_links": {
+					"self": [
+						{
+							"href": "https://beta.felleskomponent.no/utdanning/kodeverk/skolear/systemid/10"
+						}
+					]
+				}
+			},
+			{
+				"gyldighetsperiode": {
+					"slutt": "2026-07-31T00:00:00Z",
+					"start": "2025-08-01T00:00:00Z"
+				},
+				"kode": "20252026",
+				"navn": "20252026",
+				"systemId": {
+					"identifikatorverdi": "20"
+				},
+				"_links": {
+					"self": [
+						{
+							"href": "https://beta.felleskomponent.no/utdanning/kodeverk/skolear/systemid/20"
+						}
+					]
+				}
+			}
+		]
+	},
+	"_links": {
+		"self": [
+			{
+				"href": "https://beta.felleskomponent.no/utdanning/kodeverk/skolear/"
+			}
+		]
+	},
+	"total_items": 2,
+	"offset": 0,
+	"size": 2
+}
